@@ -1,0 +1,45 @@
+.#{$ns}homepage-gallery {
+	padding: 4.5rem 0;
+	background-color: $light-gray;
+
+	// HEADING
+	#crl8-gallery-S82tAh0o-square-grid .fXyyIK{
+		color: $text;
+		font-family: $font-header;
+		color: $text;
+	}
+
+	// DESCRIPTION TEXT
+	#crl8-gallery-S82tAh0o-square-grid .cQGJhd {
+		font-family: $font-body;
+		color: $text;
+	}
+
+	// BUTTON
+	#crl8-gallery-S82tAh0o-square-grid .efdSCX {
+		border: none;
+		width: fit-content;
+		color: $primary-opposite;
+		font-family: $font-body;
+		background-color: $primary;
+		padding: 1rem 2.2rem;
+		transition: 100ms;
+		
+		&:hover {
+			background-color: $text;
+			color: $text-opposite;
+			opacity: 1;
+			transition: 100ms;
+			border: none;
+		}
+
+		&:focus {
+			background-color: $text;
+			color: $text-opposite;
+			opacity: 1;
+			transition: 100ms;
+			border: none;
+		}
+	}
+
+}

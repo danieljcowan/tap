@@ -1,0 +1,442 @@
+.#{$ns}explorer-selector {
+	
+	&__slides {
+
+		.#{$ns}explorer-selector__slide {
+			display: flex !important;
+			width: 100%;
+		    display: flex;
+		    position: relative;
+		    align-items: center;
+		    padding: 3rem 0;
+		    background-size: cover;
+		    min-height: 80vh;
+
+			.#{$ns}explorer-selector__vehicle-selector-wrapper {
+				background-color: white;
+			    text-align: center;
+			    max-width: 1040px;
+			    margin: 0 auto;
+			    border-radius: 8px;
+			    width: 100%;
+		    	padding: 4rem 3rem;
+		    	position: relative;
+
+		    	.TAP-explorer-selector__vehicle-selector__back-button-wrapper {
+		    		position: absolute;
+				    bottom: 3%;
+				    width: 100%;
+				    text-align: left;
+				    padding: 0 3rem;
+
+				    .TAP-explorer-selector__vehicle-selector__back-button {
+					    border: none;
+					    background: none;
+					    color: $primary;
+					    font-size: .8rem;
+					}
+		    	}
+
+
+		    	##{$ns}explorer-selector__vehicle-selector-description {
+		    		text-align: center;
+
+		    		.#{$ns}single-product {
+		    			text-align: center;
+		    			width: 75%;
+		    			margin: 0 auto;
+		    			justify-content: center;
+
+			    		.#{$ns}single-product-summary__meta-vehicle-fit__info {
+			    			text-align: left;
+			    		}
+
+			    		.no-fit {
+			    			background-color: $dark-gray;
+			    			border-color: $dark-gray;
+			    		}
+		    		}
+
+		    		#explorer-fit-button {
+		    			margin: 0 auto;
+		    		}
+
+		    	}
+
+				.#{$ns}explorer-selector__vehicle-selector {
+					margin: 2rem 0;
+
+					.#{$ns}vehicle-select-form {
+					    display: flex;
+					    align-items: stretch;
+					    flex-direction: row;
+					    flex-wrap: wrap;
+					    gap: 1rem;
+					    justify-content: center;
+
+					    > * {
+					    	width: calc(33% - 1rem);
+					    	margin-bottom: 0;
+					    	border-radius: 5px;
+					    	padding: .5rem;
+					    	text-transform: none;
+					    }
+
+						.clear {
+							display: none;
+						}
+					}
+				}
+			}
+
+			&#kit {
+
+				.#{$ns}explorer-selector__vehicle-selector-wrapper {
+					display: flex;
+				    justify-content: center;
+				    flex-direction: row;
+				    flex-wrap: nowrap;
+				    align-content: center;
+				    align-items: stretch;
+				    overflow: scroll;
+				    gap: 5%;
+
+				    .explorer-system-pod {
+				    	box-shadow: 0px 6px 16px #c4c4c4;
+					    border-radius: 8px;
+					    width: 100%;
+					    max-width: 80%;
+					    display: flex;
+					    flex-direction: column;
+					    justify-content: space-between;
+
+					    &__header {
+					    	background-size: cover;
+						    background-position: center;
+						    padding: 1rem;
+						    border-top-left-radius: 8px;
+						    border-top-right-radius: 8px;
+
+						    h1 {
+						    	color: white;
+							    margin: 0;
+							    font-size: 1.3rem;
+							    line-height: 1;
+						    }
+						}
+
+						&__content {
+							padding: 0.5rem 12% 3rem;
+						    text-align: left;
+						    font-size: .75rem;
+
+						    &-product-image {
+						    	width: 15vh;
+    							margin: 1rem auto 1.5rem;
+						    }
+
+						    h2 {
+						    	font-size: .8rem;
+							    text-align: left;
+							    margin: 0.5rem 0;
+						    }
+
+						    &-section {
+						    	margin-bottom: 1.1rem;
+
+						    	&-heading {
+							    	font-size: .8rem;
+								    text-align: left;
+								    margin: 0.5rem 0;
+						    	}
+
+						    	ul {
+						    		padding-inline-start: 0;
+    								margin: 0;
+
+    								li {
+    									line-height: 1.3;
+    									margin-bottom: 0.5rem;
+    								}
+						    	}
+						    }
+						}
+				    }
+
+				    .explorer-system-pod__button-container {
+				    	padding: 0.5rem 12% 3rem;
+
+					    .explorer-system-pod__button {
+
+						    width: 100%;
+						    text-align: center;
+						    font-size: .8rem;
+						    font-weight: 600;
+						}
+			    	}
+				}
+			}
+
+			&#upgrade, &#wheels, &#leaf, &#tires, &#summary {
+
+
+				.#{$ns}explorer-selector__vehicle-selector-wrapper {
+					padding: 0;
+				}
+
+				.explorer-system-pod__header {
+			    	background-size: cover;
+				    background-position: center;
+				    padding: 1.5rem;
+				    border-top-left-radius: 8px;
+				    border-top-right-radius: 8px;
+
+				    h2 {
+				    	color: white;
+					    margin: 0;
+					    font-size: 1.5rem;
+					    line-height: 1;
+				    }
+				}
+
+				.explorer-upgrade-selector__content {
+					padding: 2rem 3rem 3rem;
+
+					.explorer-upgrade-selector__buttons {
+						display: flex;
+					    justify-content: space-around;
+					    gap: 3rem;
+
+					    .TAP-button {
+					    	font-size: .6rem;
+							width: 100%;
+					    }
+					}
+				}
+			}
+
+			&#upgrade, &#leaf {
+
+				.explorer-upgrade-selector__content {
+				    
+				    &-top {
+					    display: flex;
+					    margin: 0 0 2rem;
+					    flex-direction: row;
+					    flex-wrap: nowrap;
+					    align-content: center;
+					    align-items: center;
+					    justify-content: flex-start;
+					    gap: 10%;
+					    text-align: left;
+
+					    img {
+					    	width: 35%;
+					    	margin-top: 2rem;
+					    }
+
+					    .explorer-upgrade-selector__content-details {
+
+					    	ul {
+					    		padding-inline-start: 0;
+					    		margin-bottom: 2rem;
+
+					    		li {
+					    			margin-bottom: 1rem;
+					    		}
+					    	}
+					    }
+					}
+				}
+			}
+
+			&#wheels, &#tires {
+
+				.explorer-upgrade-selector__content {
+
+					&-top {
+						margin-bottom: 2rem;
+
+						ul {
+							list-style: none;
+						    padding-inline-start: 0;
+						    display: flex;
+						    flex-direction: row;
+						    flex-wrap: wrap;
+						    align-content: center;
+						    justify-content: space-around;
+						    align-items: center;
+						    font-size: 1rem;
+						    font-weight: 600;
+						}
+
+						&.explorer-wheels-selector__options {
+
+							.options-list {
+									display: flex;
+									flex-direction: row;
+									gap: 1rem;
+
+									.explorer-wt-option {
+										width: calc(25% - .5rem);
+										padding: 1rem 1.5rem;
+										display: flex;
+									    flex-direction: column;
+									    flex-wrap: nowrap;
+									    align-content: center;
+									    justify-content: space-between;
+
+										&__image {
+											width: 100%;
+										}
+
+										&__title {
+											font-size: .8rem;
+										}
+
+										&__price {
+											font-size: .8rem;
+										}
+
+										
+										.explorer-wt-option__button {
+											margin: 0 auto;
+										    padding: 0.8rem 2.2rem;
+										    width: 100%;
+										    font-size: .8rem;
+										}
+									}
+								}
+
+							> p {
+								font-size: .75rem;
+								text-align: left;
+								margin: 2rem 0 0;
+								font-weight: 600;							}
+						}
+					}
+				}
+			}
+
+			&#summary {
+
+				.explorer-summary-selector__details {
+					display: flex;
+					margin-bottom: 2rem;
+
+					&-list {
+						width: 50%;
+					    padding-inline-start: 0;
+					    text-align: left;
+					    list-style: none;
+					    font-size: 1rem;
+
+					    li {
+					    	margin-bottom: .5rem;
+					    }
+					}
+
+					&-sku {
+						width: 50%;
+						padding: 0 3rem;
+
+						img {
+							max-width: 70%;
+							margin: 0 auto;
+						}
+
+						p {
+							font-size: .8rem;
+							text-align: center;
+						}
+
+						a {
+							font-size: .8rem;
+							text-decoration: none;
+
+							&:hover {
+								text-decoration: underline;
+							}
+						}
+					}
+				}
+
+				.explorer-summary-selector__bottom {
+					font-size: .75rem;
+				    line-height: 1.5;
+				    margin-top: 1rem;
+				}
+			}
+		}
+
+
+		ul.slider-dots {
+			display: flex;
+		    position: absolute;
+		    left: 50%;
+		    top: -1.9rem;
+		    transform: translateX(-50%);
+		    list-style: none;
+		    width: 100%;
+		    justify-content: space-between;
+		    padding-inline-start: 0;
+		    margin-bottom: -1px;
+
+		    li {
+		    	width: 100%;
+			    text-align: center;
+			    background-color: $medium-gray;
+			    border: 1px solid black;
+			    padding: 0.3rem 0;
+			    transform: skew(-20deg);
+			    color: $primary-opposite;
+			    font-weight: 600;
+
+			    span.dots__item {
+			        transform: skew(20deg);
+    				display: block;
+    				font-size: .8rem;
+    			}
+
+			    &.slick-active {
+			    	background-color: $primary;
+			    }
+
+			    &.disabled {
+			    	background-color: $light-gray;
+			    	color: #00000090;
+			    }
+
+			    &:first-child {
+			    	transform: none;
+			    	margin-right: -10px;
+			    	padding-right: 10px;
+
+			    	span.dots__item {
+			    		transform: none;
+			    	}
+			    }
+
+			    &:last-child {
+			    	transform: none;
+			    	margin-left: -10px;
+			    	padding-left: 10px;
+
+			    	span.dots__item {
+			    		transform: none;
+			    	}
+			    }
+		    }
+		}
+	}
+}
+
+.TAP-button.TAP-button--alt {
+	background-color: transparent;
+    color: $primary;
+    border: 1px solid $primary;
+
+    &:hover {
+    	color: $primary;
+    }
+}

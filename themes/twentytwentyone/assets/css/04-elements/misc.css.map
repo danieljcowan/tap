@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,4EAA4E;AAC5E;MACO;EACN,WAAW,EAAE,GAAG;;AAGjB;;;CAGE;EACD,UAAU,EAAE,MAAM;;AAGnB,GAAI;EACH,WAAW,EAAE,GAAG;EAChB,UAAU,EAAE,IAAI",
+"sources": ["../../sass/04-elements/misc.scss"],
+"names": [],
+"file": "misc.css"
+}

@@ -1,0 +1,39 @@
+@mixin transitions($speed:$default-speed) {
+  -o-transition: all $speed ease-in-out;
+  -ms-transition: all $speed ease-in-out;
+  -webkit-transition: all $speed ease-in-out;
+  -moz-transition: all $speed ease-in-out;
+  transition: all $speed ease-in-out;
+}
+
+@mixin hyperlink() {
+  border-bottom:3px solid $primary;
+  color:$dark-gray;
+  font-weight: 600;
+  text-decoration: none;
+
+  &:hover {
+    color:$primary;
+    border-color:$dark-gray;
+  }
+}
+
+
+@mixin button() {
+  background-color: transparent;
+  border:none;
+  color:#333;
+  font-weight: 500;
+  line-height: 1;
+  padding:1rem;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+
+ 
+
+  &:hover {
+    cursor:pointer;
+    text-decoration: none;
+  }
+}

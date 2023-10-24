@@ -1,0 +1,44 @@
+.nf-form-fields-required {
+	display: none;
+}
+
+#nf-form-3-cont .nf-form-content {
+	border: 1px solid #565656;
+	border-radius: $radius-sm;
+	padding: 1.5rem;
+}
+
+#nf-form-3-cont .nf-field-label {
+	margin-bottom: 2px;
+}
+
+#nf-form-3-cont .nf-form-content label {
+	font-size: 14px;
+}
+
+#nf-form-3-cont .nf-form-content input, #nf-form-3-cont .nf-form-content textarea {
+	font-size: 14px
+}
+
+#nf-form-3-cont .nf-form-content .nf-field-container {
+	margin-bottom: .7rem
+}
+
+.nf-error-msg {
+	font-size: 14px;
+}
+
+.nf-form-content button, .nf-form-content input[type=button] {
+	border-radius: $radius-lg;
+    width: 100%;
+    background-color: $primary !important;
+    height: 3.5rem;
+	padding: 0 3rem;
+	color: $primary-opposite !important;
+}
+
+#nf-form-3-cont .nf-form-content button:hover, #nf-form-3-cont .nf-form-content input[type=button]:hover, .nf-form-content input[type=submit]:hover {
+	color: #FFF;
+  opacity: .8;
+  transition: 150ms;
+}

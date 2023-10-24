@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,qCAAsC;EACrC,aAAa,EAAE,yCAAyC;;AAIzD,WAAY;EACX,KAAK,EAAE,IAAI;EAEX,8BAAmB;IAClB,OAAO,EAAE,YAAY;IACrB,WAAW,EAAE,wCAAwC;IACrD,YAAY,EAAE,wCAAwC;IACtD,SAAS,EAAE,IAAI;IACf,UAAU,EAAE,IAAI;IAEhB,0CAAc;MACb,WAAW,EAAE,CAAC",
+"sources": ["../../sass/06-components/posts-and-pages.scss"],
+"names": [],
+"file": "posts-and-pages.css"
+}

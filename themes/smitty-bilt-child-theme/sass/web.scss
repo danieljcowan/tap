@@ -1,0 +1,43 @@
+//
+// === IMPORTS FROM MASTER THEME ===
+//
+
+// --------------------------- Vendor
+@import '../../transamericanautoparts/sass/_variables';
+
+// this is my child-theme variables to override the parent theme variables.
+@import '_variables';
+
+@import '../../transamericanautoparts/sass/_mixins';
+@import '../../transamericanautoparts/sass/grid/grid';
+@import '../../transamericanautoparts/sass/vendor/_gutenberg';
+@import '../../transamericanautoparts/sass/vendor/_jquery-modal';
+@import '../../transamericanautoparts/sass/vendor/ninja-forms';
+@import '../../transamericanautoparts/sass/_generic';
+
+// --------------------------- Elements
+@import '../../transamericanautoparts/sass/elements/navbar';
+@import '../../transamericanautoparts/sass/elements/button';
+@import '../../transamericanautoparts/sass/elements/categories';
+@import '../../transamericanautoparts/sass/elements/footer';
+@import '../../transamericanautoparts/sass/elements/single-product';
+@import '../../transamericanautoparts/sass/elements/yoast-breadcrumbs';
+@import '../../transamericanautoparts/sass/elements/archive-page';
+@import '../../transamericanautoparts/sass/elements/homepage';
+@import '../../transamericanautoparts/sass/elements/optin';
+@import '../../transamericanautoparts/sass/elements/product-pod';
+@import '../../transamericanautoparts/sass/elements/product-group';
+@import '../../transamericanautoparts/sass/elements/wheel-finder';
+@import '../../transamericanautoparts/sass/elements/news';
+@import '../../transamericanautoparts/sass/elements/callout-banner';
+
+
+//
+// === CHILD THEME IMPORTS ===
+//
+@import '_generic';
+@import '_footer';
+@import '_navbar';
+@import '_homepage';
+@import 'vendor/_curalate-gallery';
+@import 'categories';

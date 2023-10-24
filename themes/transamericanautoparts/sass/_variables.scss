@@ -1,0 +1,97 @@
+$prefix: 'TAP';
+$ns: $prefix+'-';
+
+$primary: #006EAA;
+$primary-alt: #4cb9f4;
+$secondary: #EFB200;
+$tertiary: #B6563F;
+$light-gray: #DFDFDF;
+$medium-gray: #757474;
+$medium-light-gray: #949393;
+$dark-gray: #565656;
+$dark: #002736;
+$text: #000000;
+$accent: #FFD10C;
+
+$primary-opposite: #FFF;
+$secondary-opposite: #FFF;
+$tertiary-opposite: #FFF;
+$light-gray-opposite: $dark;
+$dark-gray-opposite: $dark;
+$dark-opposite: #FFF;
+$text-opposite: #FFF;
+
+$high: $primary;
+$medium: rgba($primary,.5);
+$low: rgba($primary,.2);
+
+
+$colors: (
+        primary: $primary,
+        secondary: $secondary,
+        tertiary: $tertiary,
+        light-gray: $light-gray,
+        dark-gray: $dark-gray,
+        dark: $dark
+);
+$colors-opposite: (
+        primary: $primary-opposite,
+        secondary: $secondary-opposite,
+        tertiary: $tertiary-opposite,
+        light-gray: $light-gray-opposite,
+        dark-gray: $dark-gray-opposite,
+        dark: $dark-opposite
+);
+
+$colors-combined: (
+  ('primary',$primary,$primary-opposite),
+  ('primary-opposite',$primary-opposite,$primary),
+  ('secondary',$secondary,$secondary-opposite),
+  ('secondary-opposite',$secondary-opposite,$secondary),
+  ('tertiary',$tertiary,$tertiary-opposite),
+  ('tertiary-opposite',$tertiary-opposite,$tertiary),
+  ('light-gray',$light-gray,$light-gray-opposite),
+  ('light-gray-opposite',$light-gray-opposite,$light-gray),
+  ('dark-gray',$dark-gray,$dark-gray-opposite),
+  ('dark-gray-opposite',$dark-gray-opposite,$dark-gray),
+  ('dark',$dark,$dark-opposite),
+  ('dark-opposite',$dark-opposite,$dark),
+);
+
+$font-header: 'Montserrat', sans-serif;
+$font-body: 'Montserrat', sans-serif;
+$font-accent: 'Montserrat', sans-serif;
+
+$vertical-top-margin:6rem;
+
+$default-speed:250ms;
+
+$button-vertical-padding: .5rem;
+$button-horizontal-padding:1.5rem;
+
+$vertical-spacing:3rem;
+
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+$breakpoint-xxl: 1550px;
+
+
+$blog-content-width:900px;
+
+$radius-lg:15px;
+$radius-sm:9px;
+$radius-xs:6px;
+
+
+@font-face {
+    font-family: 'United Italic Rg Bk';
+    src: url('../fonts/UnitedItalicReg-Black.woff2') format('woff2'),
+        url('../fonts/UnitedItalicReg-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+$font-united: 'United Italic Rg BK';

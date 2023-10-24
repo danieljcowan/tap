@@ -1,0 +1,144 @@
+.#{$ns}archive-page {
+	padding: 1.5rem 0 3rem
+	;
+	&__intro{
+		margin-bottom: 2rem;
+	}
+
+	&__short-description {
+
+	}
+
+	&__banner-ad {
+
+	}
+
+	&__manual-merchandising {
+		margin-bottom: 3rem;
+		background-size: 100vw 62.5%;
+		background-repeat: no-repeat;
+		padding: 2.5rem 0 0;
+
+		@media screen and (max-width: $breakpoint-sm) {
+			background-size: auto 100%;
+		}
+
+		h2 {
+			text-align: center;
+			color: $text-opposite;
+			font-size: 2rem;
+		}
+
+		&__inner {
+		
+		}
+		
+		&__pods {
+
+			.group.group-flex .c {
+				padding: 15px;
+				display: flex;
+			}
+
+			.#{$ns}manual-merchandising-pod {
+				background-color: #fff;
+			    -webkit-box-shadow: 0px 5px 9px 0px rgba(0,0,0,.51);
+			    box-shadow: 0px 5px 9px 0px rgba(0,0,0,.51);
+			    border-radius: $radius-sm;
+			    display: flex;
+
+				&__image {
+					padding-bottom: 56.25%;
+				    position: relative;
+				    border-radius: $radius-sm $radius-sm 0 0;
+				    background-size: cover;
+				    background-position: center center;
+				    background-repeat: no-repeat;
+				}
+
+				&__inner {
+					display: flex;
+				    flex-direction: column;
+				    justify-content: space-between;
+				}
+
+				&__bottom {
+					padding: 0 1.5rem 1.5rem;
+				}
+
+				&__badge {
+					position: absolute;
+				    top: .8rem;
+				    left: 0;
+				    background-color: #FFD10C;
+				    width: fit-content;
+				    padding: .2rem 1rem;
+				    padding-right: 2.2rem;
+
+					span {
+						color: $text;
+						font-weight: 600;
+						font-size: 1rem;
+						line-height: 1;
+						text-transform: uppercase;
+					}
+				}
+
+				&__content {
+					padding: .8rem 1.2rem 1.5rem;
+				}
+
+				&__description {
+					font-size: 1rem;
+					font-weight: 400;
+					line-height: 1.5;
+				}
+
+				&__title {
+					font-weight: 600;
+				}
+
+				h4 {
+					font-size: 1.2rem;
+					font-weight: 500;
+					margin-bottom: .5rem;
+				}
+
+				&__features {
+					margin-bottom: 2rem;
+					font-size: 1rem;
+					color: $text;
+					font-weight: 400;
+
+					&__item {
+
+					}
+				}
+
+				&__button {
+					margin-bottom: 1rem;
+					width: 100%;
+					background-color: $primary;
+					color: $primary-opposite;
+					text-align: center;
+					padding: .8rem;
+					border-radius: $radius-sm;
+					transition: 150ms;
+
+					&:hover {
+						opacity: .8;
+						transition: 150ms;
+					}
+				}
+			}
+		}
+	}
+
+	&__lower {
+
+	}
+
+	&__long-description {
+
+	}
+}

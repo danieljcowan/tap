@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;;;;;;;;kBAWmB;EAClB,OAAO,EAAE,EAAE;EACX,OAAO,EAAE,KAAK;EACd,YAAY,EAAE,KAAK;;AAGpB;;;;;kBAKmB;EAClB,KAAK,EAAE,IAAI",
+"sources": ["../../sass/03-generic/clearings.scss"],
+"names": [],
+"file": "clearings.css"
+}

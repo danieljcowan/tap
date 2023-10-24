@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gCAAiC;EAChC,UAAU,EAAE,yCAAyC",
+"sources": ["../../sass/06-components/search.scss"],
+"names": [],
+"file": "search.css"
+}

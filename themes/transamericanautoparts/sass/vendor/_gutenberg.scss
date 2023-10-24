@@ -1,0 +1,554 @@
+$space-size-none:  0em;
+$space-size-xs: .75em;
+$space-size-sm: 1em;
+$space-size-md: 1.75em;
+$space-size-lg: 2.5em;
+$space-size-xl: 3.5em;
+$space-size-xxl: 4.75em;
+
+$location-prefixes: ('top','right','bottom','left');
+$space-size: (
+  ('none', '0em'),
+  ('xs', '.75em'),
+  ('sm', '1em'),
+  ('md', '1.75em'),
+  ('lg', '2.5em'),
+  ('xl', '3.5em'),
+  ('xxl', '4.75em')
+);
+
+.alignwide {
+  margin: 0px calc(50% - 47.5vw);
+  max-width: 95vw;
+  width: 100vw;
+}
+.alignfull {
+  margin: 0 calc(50% - 50vw);
+  max-width: 100vw;
+  width: 100vw;
+}
+
+.has-text-align-center {
+  margin-left:auto;
+  margin-right: auto;
+}
+.has-text-align-left {
+  margin-right: auto;
+}
+.has-text-align-right {
+  margin-left: auto;
+}
+
+
+// Font family
+.#{$ns}font {
+
+  &-header { font-family:$font-header; }
+  &-body { font-family:$font-body; }
+  &-accent { font-family:$font-accent; }
+
+}
+
+// Font casees
+.#{$ns}font {
+
+  &-uppercase { text-transform: uppercase; }
+  &-lowercase { text-transform: lowercase; }
+  &-normalcase { text-transform: unset; }
+
+}
+
+// Golden ratio header font sizes
+h1 { font-size: 2.6rem; }
+h2 { font-size:2.04rem; }
+h3 { font-size:1.6rem; }
+h4 { font-size:1.28rem; }
+h5 { font-size:1rem; }
+h6 { font-size:.8rem; }
+
+// General Padding
+.#{$ns}padding {
+
+  padding:$space-size-md;
+
+  @each $size in $space-size {
+    &-#{nth($size,1)} {
+      padding:#{nth($size,2)};
+    }
+  }
+
+  @each $location in $location-prefixes {
+
+    &-#{$location} {
+
+      @each $size in $space-size {
+
+        &-#{nth($size,1)} {
+          padding-#{$location}:#{nth($size,2)};
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+// Advanced columns padding (Advanced columns needs the padding on the `inner` div
+.wp-block-atomic-blocks-ab-column.#{$ns}padding {
+
+
+  @each $size in $space-size {
+    &-#{nth($size,1)} {
+
+      padding:0;
+
+      .ab-block-layout-column-inner {
+        padding: #{nth($size,2)};
+      }
+    }
+  }
+
+  @each $location in $location-prefixes {
+
+    &-#{$location} {
+
+      @each $size in $space-size {
+
+        &-#{nth($size,1)} {
+
+          padding:0;
+
+          .ab-block-layout-column-inner {
+            padding-#{$location}: #{nth($size,2)};
+          }
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+
+
+
+
+
+// General Margin
+.#{$ns}margin {
+
+  margin:$space-size-md;
+
+  @each $size in $space-size {
+    &-#{nth($size,1)} {
+      margin:#{nth($size,2)};
+    }
+  }
+
+  @each $location in $location-prefixes {
+
+    &-#{$location} {
+
+      @each $size in $space-size {
+
+        &-#{nth($size,1)} {
+          margin-#{$location}:#{nth($size,2)};
+        }
+
+      }
+
+    }
+
+  }
+
+}
+
+
+
+.wp-block-button {
+
+  a,span {
+    @include button();
+  }
+
+  &.size {
+
+    &-xs .wp-block-button__link { font-size:.75rem; }
+    &-sm .wp-block-button__link { font-size:1rem; }
+    &-md .wp-block-button__link { font-size:1.25rem; }
+    &-lg .wp-block-button__link { font-size:1.75rem; }
+    &-xl .wp-block-button__link { font-size:2.5rem; }
+    &-xxl .wp-block-button__link { font-size:4rem; }
+
+  }
+
+}
+
+.wp-block-buttons {
+
+  &.size {
+
+    &-xs .wp-block-button__link { font-size:.75rem; }
+    &-sm .wp-block-button__link { font-size:1rem; }
+    &-md .wp-block-button__link { font-size:1.25rem; }
+    &-lg .wp-block-button__link { font-size:1.75rem; }
+    &-xl .wp-block-button__link { font-size:2.5rem; }
+    &-xxl .wp-block-button__link { font-size:4rem; }
+
+  }
+
+}
+
+.wp-block-image img {
+  height: auto;
+  max-width:100%;
+}
+
+p,li {
+  line-height: 1.5;
+}
+
+// -- GUTENBERG OVERRIDE CLASSES -- //
+
+// Adding icons to elements
+.#{$ns}icon {
+
+  &-append:after {
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 900;
+  }
+  &-append:before {
+    display: none !important;
+  }
+
+  &-prepend:before {
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 900;
+  }
+  &-prepend:after {
+    display: none !important;
+  }
+
+  &-primary {
+    &:before, &:after { color:$primary; }
+  }
+
+  &-secondary {
+    &:before, &:after { color:$secondary; }
+  }
+
+  &-tertiary {
+    &:before, &:after { color:$tertiary; }
+  }
+
+}
+
+// Make the text uppercase
+.uppercase {
+  text-transform: uppercase;
+}
+
+// General Padding
+.padding {
+
+  padding:1.75em;
+
+  &-xs { padding:.75em; }
+  &-sm { padding:1em; }
+  &-md { padding:1.75em; }
+  &-lg { padding:2.5em; }
+  &-xl { padding:3.5em; }
+  &-xxl { padding:4.75em; }
+}
+
+// Headers
+h1,h2,h3,h4,h5,h6 {
+
+  &.size-xs { font-size:.75em; }
+  &.size-sm { font-size:1em; }
+  &.size-md { font-size:1.75em; }
+  &.size-lg { font-size:2.5em; }
+  &.size-xl { font-size:3.5em; }
+  &.size-xxl { font-size:4.75em; }
+
+  // Icons on headers
+  &.#{$ns}icon-prepend:before {
+    padding-right: .5em;
+  }
+  &.#{$ns}icon-append:after {
+    padding-left: .5em;
+  }
+
+}
+
+// Paragraphs
+p {
+
+  &.size-xs { font-size:.65em; }
+  &.size-sm { font-size:.85em; }
+  &.size-md { font-size:1em; }
+  &.size-lg { font-size:1.5em; }
+  &.size-xl { font-size:2em; }
+  &.size-xxl { font-size:3em; }
+
+}
+
+// Images {
+.wp-block-image {
+
+  &.image-width {
+
+    text-align: center;
+
+    &.w {
+      &-5 { img { width: 5%; } }
+      &-10 { img { width: 10%; } }
+      &-15 { img { width: 15%; } }
+      &-20 { img { width: 20%; } }
+      &-25 { img { width: 25%; } }
+      &-30 { img { width: 30%; } }
+      &-35 { img { width: 35%; } }
+      &-40 { img { width: 40%; } }
+      &-45 { img { width: 45%; } }
+      &-50 { img { width: 50%; } }
+      &-55 { img { width: 55%; } }
+      &-60 { img { width: 60%; } }
+      &-65 { img { width: 65%; } }
+      &-70 { img { width: 70%; } }
+      &-75 { img { width: 75%; } }
+      &-80 { img { width: 80%; } }
+      &-85 { img { width: 85%; } }
+      &-90 { img { width: 90%; } }
+      &-95 { img { width: 95%; } }
+    }
+  }
+
+  img {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &.shadow-primary {
+    text-align: center;
+    
+    img {
+      box-shadow:-20px -20px 0px $primary;
+    }
+  }
+  &.shadow-secondary {
+    text-align: center;
+    
+    img {
+      box-shadow:-20px -20px 0px $secondary;
+    }
+  }
+  &.shadow-tertiary {
+    text-align: center;
+    
+    img {
+      box-shadow:-20px -20px 0px $tertiary;
+    }
+  }
+
+}
+
+
+// Width of an element + alignment
+.#{$ns}width {
+
+  &.w {
+    &-5 { width: 5%; }
+    &-10 { width: 10%; }
+    &-15 { width: 15%; }
+    &-20 { width: 20%; }
+    &-25 { width: 25%; }
+    &-30 { width: 30%; }
+    &-35 { width: 35%; }
+    &-40 { width: 40%; }
+    &-45 { width: 45%; }
+    &-50 { width: 50%; }
+    &-55 { width: 55%; }
+    &-60 { width: 60%; }
+    &-65 { width: 65%; }
+    &-70 { width: 70%; }
+    &-75 { width: 75%; }
+    &-80 { width: 80%; }
+    &-85 { width: 85%; }
+    &-90 { width: 90%; }
+    &-95 { width: 95%; }
+  }
+
+  @media screen and (max-width: $breakpoint-sm) {
+
+    &.w-5, &.w-10, &.w-15, &.w-20, &.w-25, &.w-30, &.w-35, &.w-40, &.w-45, &.w-50, &.w-55, &.w-60, &.w-65, &.w-70, &.w-75, &.w-80, &.w-85, &.w-90, &.w-95 {
+      width:100%;
+    }
+
+  }
+
+  &.w-left {
+    margin-right: auto;
+  }
+  &.w-right {
+    margin-left: auto;
+  }
+
+}
+
+
+// Atomic Blocks Container
+.ab-block-container {
+
+  $quote-container-space: 2rem;
+
+  &.quote {
+    background-image: url(../images/diagonal-line.png);
+    background-repeat: repeat;
+    font-size:1.2rem;
+    padding:$quote-container-space;
+    text-align: center;
+
+    .ab-container-inside {
+      background-color: #FFF;
+      padding:($quote-container-space * 2) $quote-container-space;
+    }
+  }
+
+  @media screen and (max-width:$breakpoint-sm) {
+
+    // Dim the background image on mobile
+    &.bg-mobile-dim {
+      .ab-container-image-wrap {
+        opacity: .2;
+      }
+    }
+
+
+    // Left-align the background image on mobile
+    &.bg-mobile-left {
+      .ab-container-image-wrap {
+        img {
+          object-position: 20% 50%;
+        }
+      }
+    }
+
+    // Right-align the background image on mobile
+    &.bg-mobile-right {
+      .ab-container-image-wrap {
+        img {
+          object-position: 80% 50%;
+        }
+      }
+    }
+  }
+
+  @media screen and (max-width:$breakpoint-sm) {
+    &.alignfull {
+      .ab-container-inside {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+    }
+  }
+
+
+  // Generic container vertical padding
+  &.top-bottom-padding {
+    padding-bottom: 3rem;
+    padding-top:3rem;
+
+    &-xs {
+      padding-bottom:.75em;
+      padding-top:.75em;
+    }
+    &-sm {
+      padding-bottom:1.5em;
+      padding-top:1.5em;
+    }
+    &-md {
+      padding-bottom:3em;
+      padding-top:3em;
+    }
+    &-lg {
+      padding-bottom:5em;
+      padding-top:5em;
+    }
+    &-xl {
+      padding-bottom:7em;
+      padding-top:7em;
+    }
+    &-xxl {
+      padding-bottom:9em;
+      padding-top:9em;
+    }
+  }
+
+
+}
+
+// Separator Old
+// body .wp-block-separator {
+//   border-top:none;
+//   height:5px;
+//   margin:3rem auto;
+//   width:70px;
+
+//   &.align {
+
+//     &-right {
+//       margin:3rem 0 3rem auto;
+//     }
+//     &-left {
+//       margin:3rem auto 3rem 0;
+//     }
+
+//   }
+// }
+
+
+// Separator New
+body .wp-block-separator {
+  border:none;
+  height:3px;
+  margin:3rem auto;
+  width:70px;
+
+  &.#{$ns}thin {
+    height:1px;
+  }
+
+  &.#{$ns}medium {
+    height:3px;
+  }
+
+  &.#{$ns}large {
+    height:5px;
+  }
+
+
+
+  &.#{$ns}top {
+    margin-top: 0;
+  }
+  &.#{$ns}bottom {
+    margin-bottom: 0;
+  }
+  &.#{$ns}right {
+    margin:3rem 0 3rem auto;
+  }
+  &.#{$ns}left {
+    margin:3rem auto 3rem 0;
+  }
+
+
+
+
+  &.#{$ns}wide {
+    width:300px;
+  }
+}

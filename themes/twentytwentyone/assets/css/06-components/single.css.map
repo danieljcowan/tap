@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,uBAAwB;EACvB,aAAa,EAAE,qCAAqC;EACpD,cAAc,EAAE,yCAAyC;EACzD,aAAa,EAAE,yCAAyC;;AAGzD,mBAAoB;EACnB,aAAa,EAAE,IAAI;EACnB,cAAc,EAAE,CAAC;EACjB,aAAa,EAAE,CAAC;;AAGjB,2CAA4C;EAC3C,aAAa,EAAE,IAAI;EACnB,cAAc,EAAE,2CAA2C;EAC3D,aAAa,EAAE,CAAC",
+"sources": ["../../sass/06-components/single.scss"],
+"names": [],
+"file": "single.css"
+}

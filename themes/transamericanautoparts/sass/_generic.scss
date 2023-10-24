@@ -1,0 +1,116 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color:$dark-gray;
+  font-size:1.2rem;
+  line-height: 1.5;
+
+  @media screen and (max-width: $breakpoint-sm) {
+    font-size:1rem;
+
+  }
+
+  a:not(.#{$ns}button) {
+    display: inline-block;
+    line-height: 1;
+    text-decoration: none;
+    font-weight: 600;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  h1,h2,h3,h4,h5,h6 {
+    color:$text;
+    font-family:$font-header;
+    margin:0;
+  }
+
+  h1 {
+    color: $text;
+    margin-bottom: 2rem;
+  }
+
+  h2 {
+    font-size:1.8rem;
+    font-weight: 600;
+    margin-bottom: 1.2rem;
+
+    @media screen and (max-width: $breakpoint-sm) {
+      font-size:2rem;
+    }
+  }
+
+  h3 {
+    font-size:1.4rem;
+    font-weight: 500;
+    margin-bottom: .8rem;
+
+    @media screen and (max-width: $breakpoint-sm) {
+      font-size:1.5rem;
+    }
+  }
+
+  h4 {
+    font-size:1.5rem;
+    font-weight: 700;
+
+    @media screen and (max-width: $breakpoint-sm) {
+      font-size:1.25rem;
+    }
+  }
+
+  img {
+    width: 100%;
+  }
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+}
+
+.alignleft {
+  text-align: left;
+}
+
+.alignright {
+  text-align: right;
+}
+
+.alignfull {
+  margin: 0 calc(50% - 50vw) 32px;
+  max-width: 100vw;
+  width: 100vw;
+
+  &.tap-no-top-margin {
+    margin-top: 0;
+  }
+}
+
+.#{$ns}hide {
+  display: none;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.#{$ns}button.classic-button {
+  display: block;
+  width: fit-content;
+  padding: 1rem 3rem;
+  color: $text-opposite;
+}
+
+.#{$ns}united {
+  font-family: $font-united;
+}
+
+button.reset {
+  border: none;
+  float:right;
+  margin: .5rem 0;
+}

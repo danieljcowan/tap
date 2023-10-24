@@ -1,0 +1,82 @@
+.#{$ns}optin {
+	padding: 3.2rem 0 3rem;
+	color: $text-opposite;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-bottom: 0;
+
+	p {
+		font-size: 1.7rem;
+		margin-top: .5rem;
+		margin-bottom: 0;
+
+		@media screen and (max-width: $breakpoint-lg) {
+			margin-bottom: 1.5rem;
+		}
+
+	}
+
+	.nf-form-fields-required {
+		display: none;
+	}
+	
+	.nf-field-label {
+		display: none;
+	}
+
+	#nf-field-2 {
+		border-radius: $radius-lg;
+	    border: none;
+	    padding-left: 1.5rem;
+	    height: 3.5rem;
+	}
+
+	#nf-field-2-container {
+		margin-bottom: .7rem;
+	}
+
+	#nf-field-4 {
+		border-radius: $radius-lg;
+	    width: 100%;
+	    background-color: $primary;
+	    color: $primary-opposite;
+	    height: 3.5rem;
+	}
+
+    .nf-form-content #nf-field-4-container input[type=button]:hover {
+    	color: $text-opposite;
+    	opacity: .8;
+    	transition: 150ms;
+	}
+
+	#nf-field-4-container {
+		margin-bottom: 0;
+	}
+}
+
+
+
+##{$ns}optin-email {
+	width: 100%;
+    border-radius: $radius-lg;
+    border: none;
+    padding-left: 1.5rem;
+    height: 3.5rem;
+    margin-bottom: .7rem;
+}
+
+#m_submit {
+	width: 100%;
+    border-radius: $radius-lg;
+    width: 100%;
+    background-color: $primary;
+    height: 3.5rem;
+    color: $primary-opposite;
+    border: none;
+
+    &:hover {
+    	opacity: .9;
+    }
+}
+
+

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAY;EACX,SAAS,EAAE,mCAAmC;;AAG/C;aACc;EACb,WAAW,EAAE,sCAAsC;;AAGpD,aAAc;EACb,WAAW,EAAE,8BAA8B;;AAG5C,YAAa;EACZ,aAAa,EAAE,qCAAqC;EACpD,cAAc,EAAE,yCAAyC;;AAavD;;;;;;;;+CAAe;EACd,SAAS,EAAE,2BAA2B;AAUxC;;;;;;;;kCAAe;EACd,UAAU,EAAE,yCAAyC;AAMtD;;;;;+BACY;EACX,OAAO,EAAE,KAAK;AAQd;;wCAAW;EACV,YAAY,EAAE,uCAAuC;;AAMzD,oBAAqB;EACpB,UAAU,EAAE,+BAA+B;EAC3C,SAAS,EAAE,2BAA2B;EACtC,WAAW,EAAE,kCAAkC",
+"sources": ["../../sass/06-components/archives.scss"],
+"names": [],
+"file": "archives.css"
+}

@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5, h6, a {
+	text-transform: uppercase;
+}
+
+.TAP-categories-block .TAP-product-pod:hover .TAP-button {
+	opacity: 1;
+}
+
+.TAP-button {
+	transition: 100ms;
+	&:hover {
+		background-color: $text;
+		color: $text-opposite;
+		opacity: 1;
+		transition: 100ms;
+	}
+}

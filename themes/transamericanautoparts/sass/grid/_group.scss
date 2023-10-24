@@ -1,0 +1,28 @@
+.group {
+
+  zoom:1; /* For IE 6/7 (trigger hasLayout) */
+
+  &:before,
+  &:after {
+    content:"";
+    display:table;
+    width:0;
+  }
+
+  &:after {
+    clear:both;
+  }
+
+  @media screen and (min-width:$breakpoint-sm) {
+    &.group-flex {
+      display: flex;
+      flex-wrap:wrap;
+      flex:1;
+
+      .c {
+        padding-left:0;
+        padding-right: 0;
+      }
+    }
+  }
+}

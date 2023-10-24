@@ -1,0 +1,54 @@
+
+$button-sizes: (
+  ("xs",.5rem,.5rem),
+  ("sm",.75rem,.75rem),
+  ("md",1rem,1.5rem),
+  ("lg",1.5rem,1.5rem),
+  ("xl",2rem,2rem)
+);
+
+.#{$ns}button {
+  @include button();
+
+
+  @each $color in $colors-combined {
+    &.#{$ns}button--#{nth($color,1)} {
+      background-color: #{nth($color,2)};
+      color: #{nth($color,3)};
+    }
+  }
+
+
+  @each $size in $button-sizes {
+    &.#{$ns}button--#{nth($size,1)} {
+      font-size:#{nth($size,2)};
+      padding:#{nth($size,3)} calc( #{nth($size,3)} * 2.5 );
+    }
+  }
+}
+
+.#{$ns}button {
+  background-color: $primary;
+    width: 100%;
+    text-align: center;
+    color: $primary-opposite;
+    border-radius: $radius-sm;
+    padding: 1rem 0;
+    font-size: 1rem;
+    margin-bottom: .5rem;
+    transition: 150ms;
+    display: block;
+
+    &:hover {
+      opacity: .8;
+      transition: 150ms;
+    }
+}
+
+.#{$ns}button--none {
+    border: none;
+    background: none;
+    color: $primary;
+    font-size: .8rem;
+}
+

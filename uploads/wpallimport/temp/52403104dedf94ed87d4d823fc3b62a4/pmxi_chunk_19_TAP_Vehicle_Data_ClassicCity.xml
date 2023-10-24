@@ -1,0 +1,3592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmxi_records><node>
+		<vehicleid><![CDATA[277143]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T6 Momentum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277144]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T6 Inscription]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277145]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T5 R-Design]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277146]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T5 Momentum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277147]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T5 Momentum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277148]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T6 R-Design]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277149]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T6 Momentum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277150]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T6 Inscription]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277151]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T5 R-Design]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277173]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLC63 AMG S]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277174]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLC63 AMG]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277175]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLC43 AMG]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277986]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-5]]></modelname>
+		<submodelname><![CDATA[Carbon Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277987]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-5]]></modelname>
+		<submodelname><![CDATA[Carbon Edition Turbo]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277992]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T8 Recharge R-Design]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277993]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T8 Recharge Inscription]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277994]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T8 Recharge Inscription Expression]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277995]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T8 Recharge Inscription Expression]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277996]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T8 Recharge Inscription]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[277997]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC90]]></modelname>
+		<submodelname><![CDATA[T8 Recharge R-Design]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[278084]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Willys]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[278085]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Willys Sport]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[278111]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Range Rover Sport]]></modelname>
+		<submodelname><![CDATA[Autobiography]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[278194]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q8]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[278201]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q8]]></modelname>
+		<submodelname><![CDATA[Premium Plus]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[278202]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q8]]></modelname>
+		<submodelname><![CDATA[Prestige]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279175]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[e-tron Sportback]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279176]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Venue]]></modelname>
+		<submodelname><![CDATA[Denim]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279177]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[e-tron Quattro]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279178]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Honda]]></makename>
+		<modelname><![CDATA[CR-V]]></modelname>
+		<submodelname><![CDATA[Hybrid Touring]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279180]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Honda]]></makename>
+		<modelname><![CDATA[CR-V]]></modelname>
+		<submodelname><![CDATA[Hybrid EX-L]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279181]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Honda]]></makename>
+		<modelname><![CDATA[CR-V]]></modelname>
+		<submodelname><![CDATA[Hybrid EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279184]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jaguar]]></makename>
+		<modelname><![CDATA[F-Pace]]></modelname>
+		<submodelname><![CDATA[R-Dynamic S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279185]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[X-Dynamic SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279212]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Toyota]]></makename>
+		<modelname><![CDATA[C-HR]]></modelname>
+		<submodelname><![CDATA[Nightshade]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279216]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[Sprinter 3500XD]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[7]]></vehicletypeid>
+		<vehicletypename><![CDATA[Van]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279218]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[4xe Rubicon]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279219]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[4xe Sahara]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279220]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[4xe]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279266]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Fiat]]></makename>
+		<modelname><![CDATA[500X]]></modelname>
+		<submodelname><![CDATA[Sport]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279305]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[Hybrid S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279313]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279314]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[First Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279315]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279316]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[X]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279317]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[X-Dynamic S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279365]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLE53 AMG]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279366]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLE63 AMG S]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279394]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Toyota]]></makename>
+		<modelname><![CDATA[RAV4]]></modelname>
+		<submodelname><![CDATA[Hybrid XLE Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279417]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC60]]></modelname>
+		<submodelname><![CDATA[T8 Recharge Polestar]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279472]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Tesla]]></makename>
+		<modelname><![CDATA[X]]></modelname>
+		<submodelname><![CDATA[Long Range Plus]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279473]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[LX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279474]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[SX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279475]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279476]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279479]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro EV]]></modelname>
+		<submodelname><![CDATA[EX Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279480]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro EV]]></modelname>
+		<submodelname><![CDATA[EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279482]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[SX Prestige]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279484]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volkswagen]]></makename>
+		<modelname><![CDATA[ID.4]]></modelname>
+		<submodelname><![CDATA[1st Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279485]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volkswagen]]></makename>
+		<modelname><![CDATA[ID.4]]></modelname>
+		<submodelname><![CDATA[Pro]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279489]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Freightliner]]></makename>
+		<modelname><![CDATA[Sprinter 3500XD]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[7]]></vehicletypeid>
+		<vehicletypename><![CDATA[Van]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279494]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Acura]]></makename>
+		<modelname><![CDATA[MDX]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[279501]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Seltos]]></modelname>
+		<submodelname><![CDATA[S Turbo]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[280429]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Volvo]]></makename>
+		<modelname><![CDATA[XC40]]></modelname>
+		<submodelname><![CDATA[Recharge]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281232]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Grand Cherokee]]></modelname>
+		<submodelname><![CDATA[80th Anniversary]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281233]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Grand Cherokee]]></modelname>
+		<submodelname><![CDATA[High Altitude]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281234]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Grand Cherokee]]></modelname>
+		<submodelname><![CDATA[Laredo E]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281235]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Grand Cherokee]]></modelname>
+		<submodelname><![CDATA[Laredo X]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281236]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Renegade]]></modelname>
+		<submodelname><![CDATA[80th Anniversary]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281237]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Renegade]]></modelname>
+		<submodelname><![CDATA[Islander]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281238]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Renegade]]></modelname>
+		<submodelname><![CDATA[Jeepster]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281239]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited Willys Sport (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281240]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited Willys (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281241]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited Sahara Altitude (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281242]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited Islander (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281243]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited High Altitude (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281244]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited Freedom (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281245]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited 80th Anniversary (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281246]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[80th Anniversary (2-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281247]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Islander (2-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281248]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Willys Sport (2-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281249]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Willys (2-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281250]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Freedom (2-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281252]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited Sport Altitude (4-Door)]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281253]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[Plug-In Hybrid EX Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281254]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[Plug-In Hybrid EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281255]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[Plug-In Hybrid LXS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281256]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[EX Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281257]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[Touring]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281258]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[LXS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281259]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[LX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281260]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Niro]]></modelname>
+		<submodelname><![CDATA[Touring Special Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281261]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery]]></modelname>
+		<submodelname><![CDATA[R-Dynamic HSE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281262]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery]]></modelname>
+		<submodelname><![CDATA[R-Dynamic S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281263]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281264]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q5 Sportback]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281265]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q5 Sportback]]></modelname>
+		<submodelname><![CDATA[Prestige]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281266]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q5 Sportback]]></modelname>
+		<submodelname><![CDATA[Premium Plus]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281301]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Cherokee]]></modelname>
+		<submodelname><![CDATA[80th Anniversary]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281302]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Mojave]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281303]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[80th Anniversary]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281304]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[High Altitude]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[281318]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Wrangler (JL)]]></modelname>
+		<submodelname><![CDATA[Unlimited Rubicon 392]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282151]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[EQC400]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282249]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[Hybrid EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282276]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Ram]]></makename>
+		<modelname><![CDATA[1500]]></modelname>
+		<submodelname><![CDATA[TRX Launch Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282278]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Infiniti]]></makename>
+		<modelname><![CDATA[QX80]]></modelname>
+		<submodelname><![CDATA[Premium Select]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282279]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Infiniti]]></makename>
+		<modelname><![CDATA[QX80]]></modelname>
+		<submodelname><![CDATA[Sensory]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282280]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Kona]]></modelname>
+		<submodelname><![CDATA[Night]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282329]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[2.5 Turbo Premium Plus]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282330]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[2.5 Turbo Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282331]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[2.5 Turbo]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282335]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLE450]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[282336]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLE350]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283396]]></vehicleid>
+		<yearid><![CDATA[2008]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Range Rover]]></modelname>
+		<submodelname><![CDATA[Westminster Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283397]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Ram]]></makename>
+		<modelname><![CDATA[1500 Classic]]></modelname>
+		<submodelname><![CDATA[Express]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283399]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Honda]]></makename>
+		<modelname><![CDATA[Pilot]]></modelname>
+		<submodelname><![CDATA[Special Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283412]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Volkswagen]]></makename>
+		<modelname><![CDATA[Atlas Cross Sport]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283417]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Porsche]]></makename>
+		<modelname><![CDATA[Cayenne]]></modelname>
+		<submodelname><![CDATA[GTS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283419]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLS580]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283420]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLS450]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283421]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[EQC400]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283423]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLB250]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283427]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283428]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Lincoln]]></makename>
+		<modelname><![CDATA[Corsair]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283429]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Range Rover Evoque]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283430]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery Sport]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283431]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283432]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Telluride]]></modelname>
+		<submodelname><![CDATA[EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283433]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Sport]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283434]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Venue]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283435]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Palisade]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283436]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Honda]]></makename>
+		<modelname><![CDATA[CR-V]]></modelname>
+		<submodelname><![CDATA[Hybrid EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283437]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 3500 HD]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283438]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 2500 HD]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283439]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 1500]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283440]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Ranger]]></modelname>
+		<submodelname><![CDATA[XL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283441]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Explorer]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283442]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283443]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Blazer]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283444]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 3500 HD]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283445]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 2500 HD]]></modelname>
+		<submodelname><![CDATA[Custom]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283446]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[Custom]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283447]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[XT6]]></modelname>
+		<submodelname><![CDATA[Sport]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283448]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Encore GX]]></modelname>
+		<submodelname><![CDATA[Essence]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283449]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[BMW]]></makename>
+		<modelname><![CDATA[X4]]></modelname>
+		<submodelname><![CDATA[M]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283450]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[BMW]]></makename>
+		<modelname><![CDATA[X3]]></modelname>
+		<submodelname><![CDATA[M]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283454]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q5 PHEV]]></modelname>
+		<submodelname><![CDATA[Prestige]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283456]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Toyota]]></makename>
+		<modelname><![CDATA[Venza]]></modelname>
+		<submodelname><![CDATA[LE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283458]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Toyota]]></makename>
+		<modelname><![CDATA[RAV4 Prime]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283460]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Nissan]]></makename>
+		<modelname><![CDATA[Rogue]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283462]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLE63 AMG S]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283463]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLE53 AMG]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283464]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[Maybach GLS600]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283465]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLS63 AMG]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283466]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLB35 AMG]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283467]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLA35 AMG]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283468]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLA250]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283473]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283474]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Sorento]]></modelname>
+		<submodelname><![CDATA[EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283475]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Seltos]]></modelname>
+		<submodelname><![CDATA[EX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283478]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon XL]]></modelname>
+		<submodelname><![CDATA[SLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283479]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon]]></modelname>
+		<submodelname><![CDATA[SLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283480]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Suburban]]></modelname>
+		<submodelname><![CDATA[LS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283481]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Genesis]]></makename>
+		<modelname><![CDATA[GV80]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283483]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Mustang Mach-E]]></modelname>
+		<submodelname><![CDATA[Select]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283484]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[XL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283485]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Bronco Sport]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283486]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Trailblazer]]></modelname>
+		<submodelname><![CDATA[L]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283487]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade ESV]]></modelname>
+		<submodelname><![CDATA[Luxury]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283488]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade]]></modelname>
+		<submodelname><![CDATA[Luxury]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283489]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Envision]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283490]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[BMW]]></makename>
+		<modelname><![CDATA[Alpina XB7]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283495]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Aston Martin]]></makename>
+		<modelname><![CDATA[DBX]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283508]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[SQ5 Sportback]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283531]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mitsubishi]]></makename>
+		<modelname><![CDATA[Outlander Sport]]></modelname>
+		<submodelname><![CDATA[BE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283534]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q5 PHEV]]></modelname>
+		<submodelname><![CDATA[Premium Plus]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283535]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[Q5 PHEV]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283537]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[BMW]]></makename>
+		<modelname><![CDATA[X4]]></modelname>
+		<submodelname><![CDATA[M Competition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283538]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[BMW]]></makename>
+		<modelname><![CDATA[X3]]></modelname>
+		<submodelname><![CDATA[M Competition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283539]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Encore GX]]></modelname>
+		<submodelname><![CDATA[Select]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283540]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Encore GX]]></modelname>
+		<submodelname><![CDATA[Preferred]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283541]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Envision]]></modelname>
+		<submodelname><![CDATA[Preferred]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283542]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Envision]]></modelname>
+		<submodelname><![CDATA[Essence]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283543]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Envision]]></modelname>
+		<submodelname><![CDATA[Avenir]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283544]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade ESV]]></modelname>
+		<submodelname><![CDATA[Sport Platinum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283545]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade ESV]]></modelname>
+		<submodelname><![CDATA[Sport]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283546]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade ESV]]></modelname>
+		<submodelname><![CDATA[Premium Luxury Platinum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283547]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade ESV]]></modelname>
+		<submodelname><![CDATA[Premium Luxury]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283548]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade]]></modelname>
+		<submodelname><![CDATA[Sport Platinum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283549]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade]]></modelname>
+		<submodelname><![CDATA[Sport]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283550]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade]]></modelname>
+		<submodelname><![CDATA[Premium Luxury Platinum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283551]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[Escalade]]></modelname>
+		<submodelname><![CDATA[Premium Luxury]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283552]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[XT6]]></modelname>
+		<submodelname><![CDATA[Luxury]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283553]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Cadillac]]></makename>
+		<modelname><![CDATA[XT6]]></modelname>
+		<submodelname><![CDATA[Premium Luxury]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283554]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Blazer]]></modelname>
+		<submodelname><![CDATA[RS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283555]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Blazer]]></modelname>
+		<submodelname><![CDATA[Premier]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283556]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Blazer]]></modelname>
+		<submodelname><![CDATA[L]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283557]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[WT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283558]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[SSV]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283559]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[RST]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283560]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[LTZ]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283561]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[LT Trail Boss]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283562]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283563]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[High Country]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283564]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 1500]]></modelname>
+		<submodelname><![CDATA[Custom Trail Boss]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283565]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 2500 HD]]></modelname>
+		<submodelname><![CDATA[WT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283566]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 2500 HD]]></modelname>
+		<submodelname><![CDATA[LTZ]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283567]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 2500 HD]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283568]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 2500 HD]]></modelname>
+		<submodelname><![CDATA[High Country]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283569]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 3500 HD]]></modelname>
+		<submodelname><![CDATA[WT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283570]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 3500 HD]]></modelname>
+		<submodelname><![CDATA[LTZ]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283571]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Silverado 3500 HD]]></modelname>
+		<submodelname><![CDATA[High Country]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283572]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Suburban]]></modelname>
+		<submodelname><![CDATA[Z71]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283573]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Suburban]]></modelname>
+		<submodelname><![CDATA[RST]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283574]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Suburban]]></modelname>
+		<submodelname><![CDATA[Premier]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283575]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Suburban]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283576]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Suburban]]></modelname>
+		<submodelname><![CDATA[High Country]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283577]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Trailblazer]]></modelname>
+		<submodelname><![CDATA[RS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283578]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Trailblazer]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283579]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Trailblazer]]></modelname>
+		<submodelname><![CDATA[LS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283580]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Trailblazer]]></modelname>
+		<submodelname><![CDATA[ACTIV]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283581]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[SEL Plug-In Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283582]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[SEL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283583]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[SE Sport Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283584]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[SE Plug-In Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283585]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283586]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[Titanium Plug-In Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283587]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[Titanium Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283588]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Escape]]></modelname>
+		<submodelname><![CDATA[Titanium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283589]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Explorer]]></modelname>
+		<submodelname><![CDATA[XLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283590]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Explorer]]></modelname>
+		<submodelname><![CDATA[ST]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283591]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Explorer]]></modelname>
+		<submodelname><![CDATA[Platinum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283592]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Explorer]]></modelname>
+		<submodelname><![CDATA[Limited Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283593]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Explorer]]></modelname>
+		<submodelname><![CDATA[Limited]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283594]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[XLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283595]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[SSV]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283596]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[Raptor]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283597]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[Police Responder]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283598]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[Platinum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283599]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[Limited]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283600]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Ranger]]></modelname>
+		<submodelname><![CDATA[XLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283601]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Ranger]]></modelname>
+		<submodelname><![CDATA[Lariat]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283604]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Genesis]]></makename>
+		<modelname><![CDATA[GV80]]></modelname>
+		<submodelname><![CDATA[Prestige]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283605]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Genesis]]></makename>
+		<modelname><![CDATA[GV80]]></modelname>
+		<submodelname><![CDATA[Advanced+]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283606]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Genesis]]></makename>
+		<modelname><![CDATA[GV80]]></modelname>
+		<submodelname><![CDATA[Advanced]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283607]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 1500]]></modelname>
+		<submodelname><![CDATA[SLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283608]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 1500]]></modelname>
+		<submodelname><![CDATA[SLE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283609]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 1500]]></modelname>
+		<submodelname><![CDATA[Elevation]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283610]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 1500]]></modelname>
+		<submodelname><![CDATA[Denali]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283611]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 1500]]></modelname>
+		<submodelname><![CDATA[AT4]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283612]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 2500 HD]]></modelname>
+		<submodelname><![CDATA[SLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283613]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 2500 HD]]></modelname>
+		<submodelname><![CDATA[SLE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283614]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 2500 HD]]></modelname>
+		<submodelname><![CDATA[Denali]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283615]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 2500 HD]]></modelname>
+		<submodelname><![CDATA[AT4]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283616]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 3500 HD]]></modelname>
+		<submodelname><![CDATA[SLT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283617]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 3500 HD]]></modelname>
+		<submodelname><![CDATA[SLE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283618]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 3500 HD]]></modelname>
+		<submodelname><![CDATA[Denali]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283619]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon]]></modelname>
+		<submodelname><![CDATA[SLE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283620]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon]]></modelname>
+		<submodelname><![CDATA[Denali]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283621]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon]]></modelname>
+		<submodelname><![CDATA[AT4]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283622]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon XL]]></modelname>
+		<submodelname><![CDATA[AT4]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283623]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon XL]]></modelname>
+		<submodelname><![CDATA[Denali]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283624]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Yukon XL]]></modelname>
+		<submodelname><![CDATA[SLE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283625]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Honda]]></makename>
+		<modelname><![CDATA[CR-V]]></modelname>
+		<submodelname><![CDATA[Hybrid Touring]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283626]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Honda]]></makename>
+		<modelname><![CDATA[CR-V]]></modelname>
+		<submodelname><![CDATA[Hybrid EX-L]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283632]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Palisade]]></modelname>
+		<submodelname><![CDATA[SEL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283633]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Palisade]]></modelname>
+		<submodelname><![CDATA[Limited]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283634]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Palisade]]></modelname>
+		<submodelname><![CDATA[Calligraphy]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283635]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Venue]]></modelname>
+		<submodelname><![CDATA[SEL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283636]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Venue]]></modelname>
+		<submodelname><![CDATA[Denim]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283637]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Willys Sport]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283638]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Willys]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283639]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[High Altitude]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283640]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Mojave]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283641]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Overland]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283642]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Rubicon]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283643]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Jeep]]></makename>
+		<modelname><![CDATA[Gladiator]]></modelname>
+		<submodelname><![CDATA[Sport S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283644]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Telluride]]></modelname>
+		<submodelname><![CDATA[SX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283645]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Telluride]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283646]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Telluride]]></modelname>
+		<submodelname><![CDATA[LX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283647]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Lincoln]]></makename>
+		<modelname><![CDATA[Corsair]]></modelname>
+		<submodelname><![CDATA[Reserve]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283648]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Lincoln]]></makename>
+		<modelname><![CDATA[Corsair]]></modelname>
+		<submodelname><![CDATA[Grand Touring]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283649]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[Select]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283650]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283651]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[Preferred]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283653]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLA250]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283654]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLB250]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283674]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Toyota]]></makename>
+		<modelname><![CDATA[RAV4 Prime]]></modelname>
+		<submodelname><![CDATA[XSE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283675]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Volkswagen]]></makename>
+		<modelname><![CDATA[Atlas Cross Sport]]></modelname>
+		<submodelname><![CDATA[SEL R-Line]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283676]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Volkswagen]]></makename>
+		<modelname><![CDATA[Atlas Cross Sport]]></modelname>
+		<submodelname><![CDATA[SEL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283677]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Volkswagen]]></makename>
+		<modelname><![CDATA[Atlas Cross Sport]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283678]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLE580]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283679]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mercedes-Benz]]></makename>
+		<modelname><![CDATA[GLA45 AMG]]></modelname>
+		<submodelname><![CDATA[4Matic]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283682]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[LS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283683]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Mitsubishi]]></makename>
+		<modelname><![CDATA[Outlander Sport]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283684]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[GMC]]></makename>
+		<modelname><![CDATA[Sierra 3500 HD]]></modelname>
+		<submodelname><![CDATA[AT4]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283685]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[Lariat]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283686]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[F-150]]></modelname>
+		<submodelname><![CDATA[King Ranch]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283688]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Tucson]]></modelname>
+		<submodelname><![CDATA[Limited]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283689]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Tucson]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283690]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Tucson]]></modelname>
+		<submodelname><![CDATA[SEL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283703]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Tucson]]></modelname>
+		<submodelname><![CDATA[Blue Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283704]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Tucson]]></modelname>
+		<submodelname><![CDATA[Blue Plug-In Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283706]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Tucson]]></modelname>
+		<submodelname><![CDATA[Limited Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283707]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Hyundai]]></makename>
+		<modelname><![CDATA[Tucson]]></modelname>
+		<submodelname><![CDATA[Limited Plug-In Hybrid]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283721]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[SSV]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283722]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[PPV]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283723]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[Z71]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283724]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[RST]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283725]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[High Country]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283726]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[Premier]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283727]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Tahoe]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283728]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Acura]]></makename>
+		<modelname><![CDATA[MDX]]></modelname>
+		<submodelname><![CDATA[SH-AWD]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283731]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[SQ5 Sportback]]></modelname>
+		<submodelname><![CDATA[Premium Plus]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283732]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Audi]]></makename>
+		<modelname><![CDATA[SQ5 Sportback]]></modelname>
+		<submodelname><![CDATA[Prestige]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283734]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Buick]]></makename>
+		<modelname><![CDATA[Encore]]></modelname>
+		<submodelname><![CDATA[Preferred]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283741]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Trax]]></modelname>
+		<submodelname><![CDATA[LS]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283742]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Chevrolet]]></makename>
+		<modelname><![CDATA[Trax]]></modelname>
+		<submodelname><![CDATA[LT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283749]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Bronco Sport]]></modelname>
+		<submodelname><![CDATA[Badlands]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283750]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Bronco Sport]]></modelname>
+		<submodelname><![CDATA[Big Bend]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283751]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Bronco Sport]]></modelname>
+		<submodelname><![CDATA[Outer Banks]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283752]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Mustang Mach-E]]></modelname>
+		<submodelname><![CDATA[California Route 1]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283753]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Mustang Mach-E]]></modelname>
+		<submodelname><![CDATA[GT]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283754]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Ford]]></makename>
+		<modelname><![CDATA[Mustang Mach-E]]></modelname>
+		<submodelname><![CDATA[Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283764]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Jaguar]]></makename>
+		<modelname><![CDATA[F-Pace]]></modelname>
+		<submodelname><![CDATA[SVR]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283772]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Seltos]]></modelname>
+		<submodelname><![CDATA[LX]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283773]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Seltos]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283774]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Seltos]]></modelname>
+		<submodelname><![CDATA[S Turbo]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283775]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Kia]]></makename>
+		<modelname><![CDATA[Seltos]]></modelname>
+		<submodelname><![CDATA[SX Turbo]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283776]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[HSE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283777]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283778]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283779]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[X]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283780]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[X-Dynamic HSE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283781]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 110]]></modelname>
+		<submodelname><![CDATA[X-Dynamic SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283782]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283783]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[X]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283784]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Defender 90]]></modelname>
+		<submodelname><![CDATA[X-Dynamic S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283785]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery Sport]]></modelname>
+		<submodelname><![CDATA[R-Dynamic HSE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283786]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery Sport]]></modelname>
+		<submodelname><![CDATA[R-Dynamic S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283787]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery Sport]]></modelname>
+		<submodelname><![CDATA[R-Dynamic SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283788]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery Sport]]></modelname>
+		<submodelname><![CDATA[S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283789]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Discovery Sport]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283790]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Range Rover Evoque]]></modelname>
+		<submodelname><![CDATA[R-Dynamic HSE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283791]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Range Rover Evoque]]></modelname>
+		<submodelname><![CDATA[R-Dynamic S]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283792]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Range Rover Evoque]]></modelname>
+		<submodelname><![CDATA[R-Dynamic SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283793]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Land Rover]]></makename>
+		<modelname><![CDATA[Range Rover Evoque]]></modelname>
+		<submodelname><![CDATA[SE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283800]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[2.5 Turbo]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283801]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[2.5 Turbo Premium]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283802]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Mazda]]></makename>
+		<modelname><![CDATA[CX-30]]></modelname>
+		<submodelname><![CDATA[2.5 Turbo Premium Plus]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283803]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Nissan]]></makename>
+		<modelname><![CDATA[Frontier]]></modelname>
+		<submodelname><![CDATA[Midnight Edition]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283804]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Nissan]]></makename>
+		<modelname><![CDATA[Rogue]]></modelname>
+		<submodelname><![CDATA[Platinum]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283805]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Nissan]]></makename>
+		<modelname><![CDATA[Rogue]]></modelname>
+		<submodelname><![CDATA[SL]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283806]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Nissan]]></makename>
+		<modelname><![CDATA[Rogue]]></modelname>
+		<submodelname><![CDATA[SV]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283819]]></vehicleid>
+		<yearid><![CDATA[2021]]></yearid>
+		<makename><![CDATA[Porsche]]></makename>
+		<modelname><![CDATA[Cayenne]]></modelname>
+		<submodelname><![CDATA[GTS Coupe]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283826]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Toyota]]></makename>
+		<modelname><![CDATA[Venza]]></modelname>
+		<submodelname><![CDATA[Limited]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[283827]]></vehicleid>
+		<yearid><![CDATA[2022]]></yearid>
+		<makename><![CDATA[Toyota]]></makename>
+		<modelname><![CDATA[Venza]]></modelname>
+		<submodelname><![CDATA[XLE]]></submodelname>
+		<vehicletypeid><![CDATA[6]]></vehicletypeid>
+		<vehicletypename><![CDATA[Truck]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[United States]]></regionname>
+	</node><node>
+		<vehicleid><![CDATA[2369579]]></vehicleid>
+		<yearid><![CDATA[2016]]></yearid>
+		<makename><![CDATA[Polaris]]></makename>
+		<modelname><![CDATA[RZR XP 4 Turbo EPS]]></modelname>
+		<submodelname><![CDATA[Base]]></submodelname>
+		<vehicletypeid><![CDATA[50]]></vehicletypeid>
+		<vehicletypename><![CDATA[Utility Vehicle]]></vehicletypename>
+		<regionid><![CDATA[1]]></regionid>
+		<regionname><![CDATA[]]></regionname>
+	</node></pmxi_records>

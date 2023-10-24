@@ -1,0 +1,3419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<product_group_id><![CDATA[19371]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp T-Shirts]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C85]]></category_id>
+		<category_name><![CDATA[Apparel, Books & DVDs]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC416]]></subcategory_id>
+		<subcategory_name><![CDATA[Apparel]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14269]]></parttype_id>
+		<parttype_name><![CDATA[T-Shirts and Tank Tops]]></parttype_name>
+		<procompcategory><![CDATA[Accessories]]></procompcategory>
+		<procompsubcategory><![CDATA[Apparel]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod880021]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Flex Fit Baseball Caps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C85]]></category_id>
+		<category_name><![CDATA[Apparel, Books & DVDs]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC416]]></subcategory_id>
+		<subcategory_name><![CDATA[Apparel]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14636]]></parttype_id>
+		<parttype_name><![CDATA[Hats and Beanies]]></parttype_name>
+		<procompcategory><![CDATA[Accessories]]></procompcategory>
+		<procompsubcategory><![CDATA[Apparel]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1530027]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp LED Motorsports Lights]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120283]]></subcategory_id>
+		<subcategory_name><![CDATA[Offroad Racing, Fog & Driving Lights]]></subcategory_name>
+		<parttype_id><![CDATA[cat1850001]]></parttype_id>
+		<parttype_name><![CDATA[Driving Lights]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[Driving Lights]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod3670001]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp LED Fog Lights]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120283]]></subcategory_id>
+		<subcategory_name><![CDATA[Offroad Racing, Fog & Driving Lights]]></subcategory_name>
+		<parttype_id><![CDATA[cat1850002]]></parttype_id>
+		<parttype_name><![CDATA[Fog Lights]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[Fog Lights]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9491]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Replacement Cover]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC69]]></subcategory_id>
+		<subcategory_name><![CDATA[Lighting Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-1052]]></parttype_id>
+		<parttype_name><![CDATA[Lens Covers and Shields]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[Headlights & Conversions]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[19486]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Tail Light LED Mount Bracket]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC67]]></subcategory_id>
+		<subcategory_name><![CDATA[Replacement Headlights, Tail Lights & Bulbs]]></subcategory_name>
+		<parttype_id><![CDATA[cat1440392]]></parttype_id>
+		<parttype_name><![CDATA[Tail & Brake Lights]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[Headlights & Conversions]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9324]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp LED Headlights]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC67]]></subcategory_id>
+		<subcategory_name><![CDATA[Replacement Headlights, Tail Lights & Bulbs]]></subcategory_name>
+		<parttype_id><![CDATA[cat1440390]]></parttype_id>
+		<parttype_name><![CDATA[Headlights, Housings and Conversions]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[Headlights & Conversions]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9350]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Light Mounting Bars]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120283]]></subcategory_id>
+		<subcategory_name><![CDATA[Offroad Racing, Fog & Driving Lights]]></subcategory_name>
+		<parttype_id><![CDATA[cat1860001]]></parttype_id>
+		<parttype_name><![CDATA[Light Bars]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[LED Light Bars]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9338]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp LED Light Bars]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120283]]></subcategory_id>
+		<subcategory_name><![CDATA[Offroad Racing, Fog & Driving Lights]]></subcategory_name>
+		<parttype_id><![CDATA[cat1860001]]></parttype_id>
+		<parttype_name><![CDATA[Light Bars]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[LED Light Bars]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9437]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Fog Light Mount Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120289]]></subcategory_id>
+		<subcategory_name><![CDATA[Light Mounting Brackets & Cradles]]></subcategory_name>
+		<parttype_id><![CDATA[cat2110005]]></parttype_id>
+		<parttype_name><![CDATA[Fog Light Mounts]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[LED Light Cubes]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9444]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Roof Light Mounts]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120289]]></subcategory_id>
+		<subcategory_name><![CDATA[Light Mounting Brackets & Cradles]]></subcategory_name>
+		<parttype_id><![CDATA[cat2110003]]></parttype_id>
+		<parttype_name><![CDATA[Roof and Windshield Lighting Mounts]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[LED Light Cubes]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1460004]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp LED Light Pods]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120283]]></subcategory_id>
+		<subcategory_name><![CDATA[Offroad Racing, Fog & Driving Lights]]></subcategory_name>
+		<parttype_id><![CDATA[cat1850005]]></parttype_id>
+		<parttype_name><![CDATA[Light Pods]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[LED Light Cubes]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9352]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Explorer Driving Lights]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120283]]></subcategory_id>
+		<subcategory_name><![CDATA[Offroad Racing, Fog & Driving Lights]]></subcategory_name>
+		<parttype_id><![CDATA[cat1850001]]></parttype_id>
+		<parttype_name><![CDATA[Driving Lights]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[LED Light Cubes]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9507]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Light Switch Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC69]]></subcategory_id>
+		<subcategory_name><![CDATA[Lighting Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450030]]></parttype_id>
+		<parttype_name><![CDATA[Fog/Driving Light Wiring Kit]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[Light Wiring Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1530029]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Rock Lights]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C14]]></category_id>
+		<category_name><![CDATA[Lighting & Lighting Accessories]]></category_name>
+		<subcategory_id><![CDATA[cat1120283]]></subcategory_id>
+		<subcategory_name><![CDATA[Offroad Racing, Fog & Driving Lights]]></subcategory_name>
+		<parttype_id><![CDATA[cat1860002]]></parttype_id>
+		<parttype_name><![CDATA[Offroad Auxiliary Lights]]></parttype_name>
+		<procompcategory><![CDATA[Lights]]></procompcategory>
+		<procompsubcategory><![CDATA[Rock Lights]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9322]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Degree Shims]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C12]]></category_id>
+		<category_name><![CDATA[Drivetrain & Differential]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC514]]></subcategory_id>
+		<subcategory_name><![CDATA[OEM Replacement Axle Parts]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14616]]></parttype_id>
+		<parttype_name><![CDATA[Axle Shims]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9454]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Tail Shaft Conversion Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C12]]></category_id>
+		<category_name><![CDATA[Drivetrain & Differential]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC512]]></subcategory_id>
+		<subcategory_name><![CDATA[Transfer Case Upgrades & Crawl Boxes]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14118]]></parttype_id>
+		<parttype_name><![CDATA[Transfer Case Slip Yoke Eliminator Kits and Hardware]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1690003]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 4 Link Conversion Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450067]]></parttype_id>
+		<parttype_name><![CDATA[Axle Truss Bolt-On]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9512]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension U-Bolts]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-18796]]></parttype_id>
+		<parttype_name><![CDATA[Axle U-Bolt]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9487]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7452]]></parttype_id>
+		<parttype_name><![CDATA[Axle U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9420]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Carrier Bearing Drop Brackets]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C12]]></category_id>
+		<category_name><![CDATA[Drivetrain & Differential]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC515]]></subcategory_id>
+		<subcategory_name><![CDATA[Drive Shafts & Drive Shaft Components]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14620]]></parttype_id>
+		<parttype_name><![CDATA[Drive Shaft Shim Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9428]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp CV-Style Drive Shafts]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C12]]></category_id>
+		<category_name><![CDATA[Drivetrain & Differential]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC515]]></subcategory_id>
+		<subcategory_name><![CDATA[Drive Shafts & Drive Shaft Components]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-2308]]></parttype_id>
+		<parttype_name><![CDATA[Drive Shafts]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9452]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Drive Shafts]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C12]]></category_id>
+		<category_name><![CDATA[Drivetrain & Differential]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC515]]></subcategory_id>
+		<subcategory_name><![CDATA[Drive Shafts & Drive Shaft Components]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-2308]]></parttype_id>
+		<parttype_name><![CDATA[Drive Shafts]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9439]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Front Drive Shaft Upgrade Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C12]]></category_id>
+		<category_name><![CDATA[Drivetrain & Differential]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC515]]></subcategory_id>
+		<subcategory_name><![CDATA[Drive Shafts & Drive Shaft Components]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-2308]]></parttype_id>
+		<parttype_name><![CDATA[Drive Shafts]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Drive Shafts & Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9342]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Level Lift Strut Extensions]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC358]]></subcategory_id>
+		<subcategory_name><![CDATA[Leveling Kits]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10940]]></parttype_id>
+		<parttype_name><![CDATA[Strut Spacers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Leveling Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9341]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Level Lift Nitro Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC358]]></subcategory_id>
+		<subcategory_name><![CDATA[Leveling Kits]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15222]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Leveling Kits]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Leveling Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9408]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Adjustable Leveling Collars]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC358]]></subcategory_id>
+		<subcategory_name><![CDATA[Leveling Kits]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15222]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Leveling Kits]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Leveling Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9445]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leveling Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC358]]></subcategory_id>
+		<subcategory_name><![CDATA[Leveling Kits]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15222]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Leveling Kits]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Leveling Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9344]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Level Lift Torsion Keys]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC358]]></subcategory_id>
+		<subcategory_name><![CDATA[Leveling Kits]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15740]]></parttype_id>
+		<parttype_name><![CDATA[Torsion Bar Key]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Leveling Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9345]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Basic Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9459]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Performance Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1530024]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Stage III Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9387]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Stage I Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9383]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Long Arm Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9388]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Stage II Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9389]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Coil Spring Conversion Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9456]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Long Travel Lift Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-18833]]></subcategory_id>
+		<subcategory_name><![CDATA[Complete Suspension Systems and Lift Kits]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Lift Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9446]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Multiple Shock Hoops]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450022]]></parttype_id>
+		<parttype_name><![CDATA[Multi Shock Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9354]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Optional Reservoir Shock Clamp]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450035]]></parttype_id>
+		<parttype_name><![CDATA[Remote Reservoir Mount Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9468]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Reservoir Mounting Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450035]]></parttype_id>
+		<parttype_name><![CDATA[Remote Reservoir Mount Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9358]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Boots]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10884]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Boot]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9495]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Mount Conversion Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450043]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Conversion Mount]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1670009]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Extensions]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15444]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Extension]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9354]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Optional Reservoir Shock Clamp]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450060]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Reservoir Isolator]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9468]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Reservoir Mounting Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450060]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Reservoir Isolator]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9354]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Optional Reservoir Shock Clamp]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15175]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Reservoir Mount Clamps]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9468]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Reservoir Mounting Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15175]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Reservoir Mount Clamps]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9448]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp MX2.75C Series Coilover Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9457]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Monotube Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9431]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp ES1000 Series Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9432]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp ES3000 Series Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9435]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp ES9000 Series Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9450]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp MX-6 Series Monotube Adjustable Reservoir Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod870842]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Remote Reservoir Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9433]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp ES4000 Toxic Series Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1250023]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Black Series 2.0 Rear Shock Absorber]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9462]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner SS Monotube Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1250027]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Black Series Coilover Shock Absorbers]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod800443]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp ES3000 Shock Packages]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod2300003]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Monotube 2.5 Piggy Back Reservoir Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod800444]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp ES9000 Shock Packages]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod800446]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Monotube Shock Packages]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9449]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp MX-6 Monotube Adjustable Shocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450061]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorbers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9434]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp ES6000 Series Struts]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7584]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Strut Assembly]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod800437]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Front Struts and Rear Mono-Tube Shock Packages]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7556]]></subcategory_id>
+		<subcategory_name><![CDATA[Shock Absorbers & Shock Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7584]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Strut Assembly]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Shocks]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9455]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pitman Arms]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7368]]></parttype_id>
+		<parttype_name><![CDATA[Pitman Arm]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9504]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Steering Center Link Kit]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[cat1440002]]></parttype_id>
+		<parttype_name><![CDATA[Steering Upgrades and Drag Links]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9323]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Adjustable Drag Links]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[cat1440002]]></parttype_id>
+		<parttype_name><![CDATA[Steering Upgrades and Drag Links]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9478]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Steering Gearbox Braces]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14113]]></parttype_id>
+		<parttype_name><![CDATA[Steering Gear Box Braces]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9503]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Steering Center Hardware]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[cat1440002]]></parttype_id>
+		<parttype_name><![CDATA[Steering Upgrades and Drag Links]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9480]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Tie Rod Reinforcing Sleeves]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15316]]></parttype_id>
+		<parttype_name><![CDATA[Tie Rod Reinforcing Sleeve]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9477]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Steering Arms]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7492]]></parttype_id>
+		<parttype_name><![CDATA[Steering Arm]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1690001]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Steering Knuckles]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC430]]></subcategory_id>
+		<subcategory_name><![CDATA[Performance Steering Upgrades]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7496]]></parttype_id>
+		<parttype_name><![CDATA[Steering Knuckle]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9326]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Dual Steering Stabilizer Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC509]]></subcategory_id>
+		<subcategory_name><![CDATA[Steering Stabilizers]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7412]]></parttype_id>
+		<parttype_name><![CDATA[Steering Stabilizer]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering Stablizers]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9360]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Pro Runner Single Steering Stabilizer Kit]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC509]]></subcategory_id>
+		<subcategory_name><![CDATA[Steering Stabilizers]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7412]]></parttype_id>
+		<parttype_name><![CDATA[Steering Stabilizer]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering Stablizers]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9470]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Single Steering Stabilizer Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC509]]></subcategory_id>
+		<subcategory_name><![CDATA[Steering Stabilizers]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7412]]></parttype_id>
+		<parttype_name><![CDATA[Steering Stabilizer]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering Stablizers]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9505]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Steering Stabilizer Cylinder]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC509]]></subcategory_id>
+		<subcategory_name><![CDATA[Steering Stabilizers]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7412]]></parttype_id>
+		<parttype_name><![CDATA[Steering Stabilizer]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering Stablizers]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9461]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Pro Runner Single Steering Stabilizers]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC509]]></subcategory_id>
+		<subcategory_name><![CDATA[Steering Stabilizers]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7412]]></parttype_id>
+		<parttype_name><![CDATA[Steering Stabilizer]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering Stablizers]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9429]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Dual Steering Stabilizer Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC509]]></subcategory_id>
+		<subcategory_name><![CDATA[Steering Stabilizers]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7420]]></parttype_id>
+		<parttype_name><![CDATA[Steering Stabilizer Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering Stablizers]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9469]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Steering Stabilizer Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC509]]></subcategory_id>
+		<subcategory_name><![CDATA[Steering Stabilizers]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7420]]></parttype_id>
+		<parttype_name><![CDATA[Steering Stabilizer Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Steering Stablizers]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9498]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Skid Plates]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C79]]></category_id>
+		<category_name><![CDATA[Armor & Protection]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC467]]></subcategory_id>
+		<subcategory_name><![CDATA[Skid Plates]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod790079]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Roll Bar RAPZ]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C81]]></category_id>
+		<category_name><![CDATA[Body Parts, Roll Cages & Frames]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC493]]></subcategory_id>
+		<subcategory_name><![CDATA[Roll Cages & Related Parts]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15283]]></parttype_id>
+		<parttype_name><![CDATA[Roll Bar Pads and Covers]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9419]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Brake Hose Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C65]]></category_id>
+		<category_name><![CDATA[Brakes & Steering]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC22]]></subcategory_id>
+		<subcategory_name><![CDATA[Brake Lines & Fittings]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-1792]]></parttype_id>
+		<parttype_name><![CDATA[Brake Hose]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9493]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Absorber Bushings]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC20]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10885]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Bushing]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9356]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Alignment Cam Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10399]]></parttype_id>
+		<parttype_name><![CDATA[Alignment Caster/Camber Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9420]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Carrier Bearing Drop Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450088]]></parttype_id>
+		<parttype_name><![CDATA[Carrier Bearing Drop]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod880020]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Drive Shaft Spacers]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14621]]></parttype_id>
+		<parttype_name><![CDATA[Drive Shaft Spacer]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9485]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Transmission Crossmembers]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14172]]></parttype_id>
+		<parttype_name><![CDATA[Frame Crossmember]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9347]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Limit Straps]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450157]]></parttype_id>
+		<parttype_name><![CDATA[Limiting Strap]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9464]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Radius Arm Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10408]]></parttype_id>
+		<parttype_name><![CDATA[Radius Arm Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1690002]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leaf Spring Lift Shackles]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450165]]></parttype_id>
+		<parttype_name><![CDATA[Shackle Reversal Kits]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9495]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Shock Mount Conversion Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7572]]></parttype_id>
+		<parttype_name><![CDATA[Shock Absorber Mounting Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9319]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Bump Stops]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7528]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Control Arm Bumper]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9315]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Air Bump Stops]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7528]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Control Arm Bumper]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9332]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Front Sway Bar Quick Disconnect Links]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-13017]]></parttype_id>
+		<parttype_name><![CDATA[Sway Bar Link - Disconnect]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9332]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Front Sway Bar Quick Disconnect Links]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10737]]></parttype_id>
+		<parttype_name><![CDATA[Sway Bar Link - Non Disconnect]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9506]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Sway Bar End Link Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10737]]></parttype_id>
+		<parttype_name><![CDATA[Sway Bar Link - Non Disconnect]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9411]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Adjustable Track Bars]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7500]]></parttype_id>
+		<parttype_name><![CDATA[Track Bar]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9481]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Track Bar Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14921]]></parttype_id>
+		<parttype_name><![CDATA[Track Bar Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9442]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Lateral Traction Bars]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7629]]></parttype_id>
+		<parttype_name><![CDATA[Traction Bar]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9510]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Traction Bar Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-13572]]></parttype_id>
+		<parttype_name><![CDATA[Traction Bar Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9482]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Traction Bar Mounting Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-13572]]></parttype_id>
+		<parttype_name><![CDATA[Traction Bar Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9484]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Transfer Case Lowering Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14625]]></parttype_id>
+		<parttype_name><![CDATA[Transfer Case Lowering Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9485]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Transmission Crossmembers]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15747]]></parttype_id>
+		<parttype_name><![CDATA[Transmission Crossmember]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9486]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Transmission Drop Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14922]]></parttype_id>
+		<parttype_name><![CDATA[Transmission Drop Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9346]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Tow Straps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-S2]]></category_id>
+		<category_name><![CDATA[Winches & Winch Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC190]]></subcategory_id>
+		<subcategory_name><![CDATA[Trail Jacks & Vehicle Recovery Equipment]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15298]]></parttype_id>
+		<parttype_name><![CDATA[Tow Strap]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9511]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Tree Saver Straps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-S2]]></category_id>
+		<category_name><![CDATA[Winches & Winch Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC190]]></subcategory_id>
+		<subcategory_name><![CDATA[Trail Jacks & Vehicle Recovery Equipment]]></subcategory_name>
+		<parttype_id><![CDATA[cat1130316]]></parttype_id>
+		<parttype_name><![CDATA[Tree Trunk Protector]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9335]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Heavy Duty Straps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-S2]]></category_id>
+		<category_name><![CDATA[Winches & Winch Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC190]]></subcategory_id>
+		<subcategory_name><![CDATA[Trail Jacks & Vehicle Recovery Equipment]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15298]]></parttype_id>
+		<parttype_name><![CDATA[Tow Strap]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9509]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Tow Hooks]]></product_group_name>
+		<category_id><![CDATA[4wp-us-S2]]></category_id>
+		<category_name><![CDATA[Winches & Winch Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC190]]></subcategory_id>
+		<subcategory_name><![CDATA[Trail Jacks & Vehicle Recovery Equipment]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-1202]]></parttype_id>
+		<parttype_name><![CDATA[Tow Hook]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9317]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Recovery Straps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-S2]]></category_id>
+		<category_name><![CDATA[Winches & Winch Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC190]]></subcategory_id>
+		<subcategory_name><![CDATA[Trail Jacks & Vehicle Recovery Equipment]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-15298]]></parttype_id>
+		<parttype_name><![CDATA[Tow Strap]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9490]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Receiver Shackle Bracket]]></product_group_name>
+		<category_id><![CDATA[4wp-us-S2]]></category_id>
+		<category_name><![CDATA[Winches & Winch Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC190]]></subcategory_id>
+		<subcategory_name><![CDATA[Trail Jacks & Vehicle Recovery Equipment]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450114]]></parttype_id>
+		<parttype_name><![CDATA[Receiver Hitch D-Ring Mount]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9511]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Tree Saver Straps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-S2]]></category_id>
+		<category_name><![CDATA[Winches & Winch Accessories]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC124]]></subcategory_id>
+		<subcategory_name><![CDATA[Winch Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-19186]]></parttype_id>
+		<parttype_name><![CDATA[Winch Accessory Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9319]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Bump Stops]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450086]]></parttype_id>
+		<parttype_name><![CDATA[Bump Stops]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Bump Stops]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9315]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Air Bump Stops]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450086]]></parttype_id>
+		<parttype_name><![CDATA[Bump Stops]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Bump Stops]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod2850001]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Control Arm Geometry Correction Brackets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450136]]></parttype_id>
+		<parttype_name><![CDATA[Control Arm Drop Bracket]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Control Arms]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9418]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Boxed Control Arms]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450138]]></parttype_id>
+		<parttype_name><![CDATA[Control Arms]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Control Arms]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9409]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Control Arms]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450138]]></parttype_id>
+		<parttype_name><![CDATA[Control Arms]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Control Arms]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9417]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Boxed Front Lower Control Arms]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450138]]></parttype_id>
+		<parttype_name><![CDATA[Control Arms]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Control Arms]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[20056]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Add-A-Leaf Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450062]]></parttype_id>
+		<parttype_name><![CDATA[Add A Leaf]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Add A Leaf]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9465]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Rear Add-A-Leaf Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450062]]></parttype_id>
+		<parttype_name><![CDATA[Add A Leaf]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Add A Leaf]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9321]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Coil Spring Spacers]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC358]]></subcategory_id>
+		<subcategory_name><![CDATA[Leveling Kits]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-11382]]></parttype_id>
+		<parttype_name><![CDATA[Coil Spring Spacer]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Coil Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9320]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Front Coil Springs]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-11380]]></parttype_id>
+		<parttype_name><![CDATA[Coil Springs]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Coil Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9438]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Coil Springs]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-11380]]></parttype_id>
+		<parttype_name><![CDATA[Coil Springs]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Coil Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9466]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Rear Coil Springs]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-11380]]></parttype_id>
+		<parttype_name><![CDATA[Coil Springs]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Coil Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9443]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leaf Spring Bushing Sets]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC20]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7488]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Bushings & Pads]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9381]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leaf Springs]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7544]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9440]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Front Leaf Springs]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7544]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9336]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leaf Spring Bend Clips]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7544]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9336]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leaf Spring Bend Clips]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450143]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Alignment Clamp]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9322]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Degree Shims]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-18224]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Axle Shim]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9319]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Bump Stops]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10406]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Bump Stop]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9315]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Air Bump Stops]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10406]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Bump Stop]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9337]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leaf Spring Centering Pins]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14975]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Center Pin]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9472]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Spring Hanger Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-13610]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Hanger]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1690002]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Leaf Spring Lift Shackles]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7484]]></parttype_id>
+		<parttype_name><![CDATA[Leaf Spring Shackle]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Springs]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[Leaf Springs]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1310067]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 2 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9369]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 2.5 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9375]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 3 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9384]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 4 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9361]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 1 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9364]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 1.5 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1310071]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 5 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1310069]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 3.5 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9393]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 5.5 Inch Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9489]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Rear Lift Blocks]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450169]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9376]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 3 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9385]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 4 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9391]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 5 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1310068]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 2.5 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1310072]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 5.5 Inch Rear Lift Block w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9362]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 1 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9365]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 1.5 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9367]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 2 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1310070]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 3.5 Inch Rear Lift Blocks w/ U-Bolt Kits]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450171]]></parttype_id>
+		<parttype_name><![CDATA[Suspension Block and U-Bolt Kit]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Suspension Components]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[Suspension Blocks]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1690003]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 4 Link Conversion Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C86]]></category_id>
+		<category_name><![CDATA[Fabrication & Tools]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC527]]></subcategory_id>
+		<subcategory_name><![CDATA[Brackets, Gussets & Tabs]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-19124]]></parttype_id>
+		<parttype_name><![CDATA[Axle Truss]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Tools & Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[25868]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Heim Joint Rebuild Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C86]]></category_id>
+		<category_name><![CDATA[Fabrication & Tools]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC528]]></subcategory_id>
+		<subcategory_name><![CDATA[Flex Joints, Rod Ends & Jam Nuts]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450343]]></parttype_id>
+		<parttype_name><![CDATA[Rod Ends, Heim, Johnny & NG Joints]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Tools & Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[25868]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Heim Joint Rebuild Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C86]]></category_id>
+		<category_name><![CDATA[Fabrication & Tools]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC528]]></subcategory_id>
+		<subcategory_name><![CDATA[Flex Joints, Rod Ends & Jam Nuts]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-18804]]></parttype_id>
+		<parttype_name><![CDATA[Heim Joint Rebuild Kits]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Tools & Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9316]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Air Down Gauges]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C86]]></category_id>
+		<category_name><![CDATA[Fabrication & Tools]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC317]]></subcategory_id>
+		<subcategory_name><![CDATA[Hand Tools]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14688]]></parttype_id>
+		<parttype_name><![CDATA[Tire Pressure Gauge]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Tools & Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9508]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Torsion Key Unloading Tools]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C86]]></category_id>
+		<category_name><![CDATA[Fabrication & Tools]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC530]]></subcategory_id>
+		<subcategory_name><![CDATA[Specialty Tools]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-13614]]></parttype_id>
+		<parttype_name><![CDATA[Torsion Key Unloading Tool]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Tools & Kits]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9514]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Suspension Uniball Upper A Arm Bushing]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7532]]></parttype_id>
+		<parttype_name><![CDATA[Control Arm Bushing]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Upper Control Arms]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9410]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Adjustable Upper Control Arms]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450138]]></parttype_id>
+		<parttype_name><![CDATA[Control Arms]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Upper Control Arms]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9488]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Uniball Upper Control Arms]]></product_group_name>
+		<category_id><![CDATA[cat1120291]]></category_id>
+		<category_name><![CDATA[Lift Kits, Suspension & Shocks]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC101]]></subcategory_id>
+		<subcategory_name><![CDATA[Suspension Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[cat1450138]]></parttype_id>
+		<parttype_name><![CDATA[Control Arms]]></parttype_name>
+		<procompcategory><![CDATA[Suspension]]></procompcategory>
+		<procompsubcategory><![CDATA[Upper Control Arms]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[28896]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp A/T Sport Tires]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7636]]></subcategory_id>
+		<subcategory_name><![CDATA[Tires]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Tires]]></procompcategory>
+		<procompsubcategory><![CDATA[All Terrain Tires]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9517]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Xtreme All-Terrain Radial Tires]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7636]]></subcategory_id>
+		<subcategory_name><![CDATA[Tires]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Tires]]></procompcategory>
+		<procompsubcategory><![CDATA[All Terrain Tires]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9516]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Xterrain Radial Tires]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7636]]></subcategory_id>
+		<subcategory_name><![CDATA[Tires]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Tires]]></procompcategory>
+		<procompsubcategory><![CDATA[Mud Terrain Tires]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9518]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Xtreme M/T 2 Radial Tires]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7636]]></subcategory_id>
+		<subcategory_name><![CDATA[Tires]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Tires]]></procompcategory>
+		<procompsubcategory><![CDATA[Mud Terrain Tires]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9288]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 01 Series Raven Chrome Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9303]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 01 Series Raven Gloss Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9276]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 01 Series Raven Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9295]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 05 Series Torq Matte Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9302]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 05 Series Torq Matte Black Machined Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9272]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 29 Series La Paz Machined Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod3020002]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 63 Series Recon Satin Black Milled Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9277]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 29 Series La Paz Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9282]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 29 Series La Paz Satin Black Machined Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod3020001]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 62 Series Apex Satin Black Milled Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9292]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 31 Series Stryker Chrome Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9296]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 31 Series Stryker Matte Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9293]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 32 Series Bandido Chrome Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9297]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 32 Series Bandido Matte Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9294]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 33 Series Grid Chrome Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9298]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 33 Series Grid Matte Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[19891]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 34 Series Rockwell Machined Face Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9278]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 34 Series Rockwell Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[19890]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 35 Series Predator Matte Graphite Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9279]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 35 Series Predator Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9273]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 36 Series Hell Dorado Machined Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9299]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 36 Series Hell Dorado Matte Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9283]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 39 Series Inertia Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9271]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 40 Series Vertigo Matte Graphite Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9284]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 40 Series Vertigo Satin Black Milled Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9275]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 41 Series Phaser Machined Face Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9280]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 41 Series Phaser Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[28904]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 42 Series Blockade Gloss Black Milled Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[28903]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 43 Series Sledge Satin Black Milled Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[28900]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 44 Series Syndrome Matte Graphite Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[28901]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 44 Series Syndrome Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[28902]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 45 Series Proxy Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1600148]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 46 Series Prodigy Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1160038]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 48 Series Quick 8 Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9289]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 50 Series 10 Gauge Chrome Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9281]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 50 Series 10 Gauge Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9290]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 51 Series District Chrome Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9304]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 51 Series District Gloss Black Machined Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1160039]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 60 Series Hammer Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1160040]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 61 Series Cognos Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod2930001]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 64 Series Gunner Satin Black Milled Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9300]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 69 Series Vintage Flat Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9269]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 69 Series Vintage Polished Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1600149]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 72 Series Axis Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1600150]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 73 Series Trilogy Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1600151]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 74 Series Trilogy Pro Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod2220007]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 75 Series Trilogy Race Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod2570002]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 75 Series Trilogy Race Super Machined Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9305]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 80 Series Gloss Black Machined Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9285]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 82 Series Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9286]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 83 Series Satin Black with Machined Lip Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9287]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 84 Series Satin Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod870525]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 85 Series Vapor Pro 2 Competition Beadlock Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9306]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 86 Series Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9274]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 86 Series Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9301]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 89 Series Kore Matte Black Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9270]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 89 Series Kore Polished Alloy Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Alloy Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[22389]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Chrome Lug Nut Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7676]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Lug Nuts]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Lug Nuts]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9266]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Black Wheel Lug Nut Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7676]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Lug Nuts]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Lug Nuts]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9267]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Spline Lug Nut Kits]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7676]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Lug Nuts]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Lug Nuts]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9265]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Lug Nut Socket Keys]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7676]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Lug Nuts]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Lug Nuts]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[12103]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Alloy Wheels Lug Nuts]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-7676]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Lug Nuts]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Lug Nuts]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[22371]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 82 Series Rock Crawler Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9313]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 98 Series Rock Crawler Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9309]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 51 Series Rock Crawler Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9311]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 87 Series Rock Crawler Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9310]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 52 Series Rock Crawler Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9312]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 97 Series Rock Crawler Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9308]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp 252 Series Street Lock Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9314]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Xtreme Rock Crawler Series 99 Steel Wheels]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-7644]]></subcategory_id>
+		<subcategory_name><![CDATA[Wheels]]></subcategory_name>
+		<parttype_id><![CDATA[]]></parttype_id>
+		<parttype_name><![CDATA[]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Steel Wheels]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9268]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Telescoping Lug Nut L Wrenches]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-16937]]></parttype_id>
+		<parttype_name><![CDATA[Lug Wrenches]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Tire & Wheel Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9316]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Air Down Gauges]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-14689]]></parttype_id>
+		<parttype_name><![CDATA[Tire Deflators]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Tire & Wheel Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9316]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Air Down Gauges]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10507]]></parttype_id>
+		<parttype_name><![CDATA[Tire Valve Deflator]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Tire & Wheel Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod790109]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Valve Stems]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-16822]]></parttype_id>
+		<parttype_name><![CDATA[Valve Stems]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Tire & Wheel Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1720002]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Vapor Pro 2 Competition Bedlock Rings]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-47137]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Trim Ring]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Tire & Wheel Accessories]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[22626]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Chrome Closed Center Caps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10061]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Center Cap]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Wheel Center Caps]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[9264]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Wheel Center Caps]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-10061]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Center Cap]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Wheel Center Caps]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+	<node>
+		<product_group_id><![CDATA[prod1660026]]></product_group_id>
+		<product_group_name><![CDATA[Pro Comp Wheel Hub Spacers]]></product_group_name>
+		<category_id><![CDATA[4wp-us-C11]]></category_id>
+		<category_name><![CDATA[Tires & Wheels]]></category_name>
+		<subcategory_id><![CDATA[4wp-us-SC107]]></subcategory_id>
+		<subcategory_name><![CDATA[Tire & Wheel Accessories]]></subcategory_name>
+		<parttype_id><![CDATA[4wp-us-49116]]></parttype_id>
+		<parttype_name><![CDATA[Wheel Hub Spacers]]></parttype_name>
+		<procompcategory><![CDATA[Wheels]]></procompcategory>
+		<procompsubcategory><![CDATA[Wheel Center Caps]]></procompsubcategory>
+		<procompsubcategory2><![CDATA[]]></procompsubcategory2>
+		<procompsubcategory3><![CDATA[]]></procompsubcategory3>
+	</node>
+</data>

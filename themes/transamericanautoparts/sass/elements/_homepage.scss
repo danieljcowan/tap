@@ -1,0 +1,251 @@
+.#{$ns}homepage {
+
+	&-hero {
+		margin-bottom: 0;
+
+		&.alignfull {
+			margin-top: 0px;
+		}
+
+		h2 {
+			font-size: 4rem;
+			margin-bottom: .5rem;
+
+			@media screen and (max-width: $breakpoint-lg) {
+				font-size: 2rem;
+			}
+
+			@media screen and (max-width: $breakpoint-md) {
+				font-size: 1.5rem;
+			}
+		}
+
+		h3 {
+			font-size: 2.5rem;
+			margin-bottom: 0;
+
+			@media screen and (max-width: $breakpoint-lg) {
+				font-size: 1.3rem;
+			}
+
+			@media screen and (max-width: $breakpoint-md) {
+				font-size: 1rem;
+			}
+		}
+
+		&__slider {
+
+			.slick-next, .slick-prev {
+				width: 60px;
+				height: 60px;
+			}
+
+			.slick-next {
+				right: 5%;
+			}
+
+			.slick-prev {
+				left: 5%;
+				z-index: 999;
+			}
+
+			.slick-next:before {
+				content: '\f054';
+			    font-family: 'Font Awesome 5 Pro';
+			    font-size: 60px;
+			    color: $text-opposite;
+			}
+
+			.slick-prev:before {
+				content: '\f053';
+			    font-family: 'Font Awesome 5 Pro';
+			    font-size: 60px;
+			    color: $text-opposite;
+			}
+
+			&__slide {
+				min-height: 45vw;
+				background-size: cover;
+				position: relative;
+
+				&-content {
+					position: absolute;
+				    top: 2.5rem;
+				    left: 0;
+				    background-color: #fff;
+				    padding: 2rem 6rem 1rem;
+				    clip-path: polygon(0 0, 100% 0%, 94% 100%, 0% 100%);
+
+					@media screen and (max-width: $breakpoint-md) {
+						font-size: 2rem;
+						top: .5rem;
+						padding: 1rem 3rem .5rem;
+					}
+				}
+			}
+
+			@media screen and (max-width: $breakpoint-sm) {
+				&__slide-content {
+					padding: .5rem 2rem;
+
+					h2 {
+						font-size: 1rem;
+						margin-bottom: 4px;
+					}
+
+					h3 {
+						font-size:.7rem;
+					}
+				}
+
+				.slick-arrow::before {
+					font-size: 30px;
+				}
+
+				.slick-arrow {
+					top: 55%;
+				}
+
+				.slick-next {
+					right: 0;
+				}
+			}
+		}
+	}
+
+	&-shop-by-make {
+		margin-bottom: 3rem;
+		background-color: #FAFAFA;
+		padding: 3rem 0;
+
+		&__title {
+			margin-bottom: 2rem;
+		}
+
+		&__slider {
+			margin-bottom: 3rem !important;
+
+			.slick-slide {
+				margin: 0 1rem;
+
+				div:first-child {
+					height: 100%;
+				}
+			}
+
+			&__slide {
+				padding: 3rem 2.5rem 2rem;
+				display: flex !important;
+				flex-direction: column;
+				justify-content: space-between;
+				background-size: cover;
+				background-repeat: no-repeat;
+				color: $text-opposite;
+				height: 100%;
+
+				h3 {
+					color: $text-opposite;
+					font-size: 1.7rem;
+				}
+
+				.button {
+					background-color: $primary;
+					padding: 1rem 2rem;
+					border-radius: $radius-lg;
+					color: $primary-opposite;
+
+				}
+
+				p {
+					line-height: 1.5;
+					font-size: 1rem;
+				}
+			}
+
+			.slick-next, .slick-prev {
+				width: 60px;
+				height: 60px;
+			}
+
+			.slick-next {
+				right: -75px;
+			}
+
+			.slick-prev {
+				left: -75px;
+				z-index: 999;
+			}
+
+			.slick-next:before {
+				content: '\f054';
+			    font-family: 'Font Awesome 5 Pro';
+			    font-size: 60px;
+			    color: $text;
+			}
+
+			.slick-prev:before {
+				content: '\f053';
+			    font-family: 'Font Awesome 5 Pro';
+			    font-size: 60px;
+			    color: $text;
+			}
+
+			.slick-dots button:before {
+				font-size: 44px;
+				font-family: 'Font Awesome 5 Pro';
+				content: '\f86c'
+			}
+
+			.slick-dots li {
+				width: 60px;
+			}
+
+			.slick-dots {
+				bottom: -48px;
+			}
+		}
+	}
+
+	.#{$ns}categories-block {
+    	margin-bottom: 3rem;
+    	padding-top: 3rem;
+
+		group {
+			width: 85%;
+			margin: 0 auto;
+
+			.TAP-category-pod {
+    			padding: 1.8rem 1.8rem 1.2rem 2rem;
+    		}
+		}
+	}
+
+	&-procomp-promise {
+		padding: 2rem 0;
+		margin-bottom: 3rem;
+
+		&__title {
+			margin-bottom: 2.5rem;
+		}
+
+		&__description {
+			column-count: 3;
+
+			@media screen and (max-width: $breakpoint-sm) {
+				padding: 0 1.2rem;
+				column-count: 1;
+			}
+
+			p {
+				break-after: column;
+
+				@media screen and (max-width: $breakpoint-sm) {
+					break-after: unset;
+				}
+			}
+		}
+	}
+}
+
+
+

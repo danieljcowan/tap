@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACN,MAAM,EAAE,yDAAyD;EACjE,aAAa,EAAE,0BAA0B;EACzC,KAAK,EAAE,uBAAuB;EAC9B,SAAS,EAAE,sBAAsB;EACjC,eAAe,EAAE,IAAI;EACrB,kBAAkB,EAAE,IAAI;EACxB,UAAU,EAAE,IAAI;EAChB,OAAO,EAAE,iHAAiH;EAC1H,UAAU,EAAE,0LAA0L;EACtM,mBAAmB,EAAE,uCAAuC",
+"sources": ["../../sass/04-elements/forms-editor.scss"],
+"names": [],
+"file": "forms-editor.css"
+}

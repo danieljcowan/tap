@@ -1,0 +1,4 @@
+"Term ID","Term Permalink","Term Name","Term Slug",Description,"Parent ID","Parent Name","Parent Slug",Count,"Image URL","Image Filename","Image Path","Image ID","Image Title","Image Caption","Image Description","Image Alt Text","Image Featured",category_id,_category_id,"Product Group ID","Product Group Name","Category Name","Subcategory ID","Subcategory Name","Part Type ID","Part Type Name","SubPart ID","SupPart Name","Short Description (Top)","Long Description (Bottom)"
+1,http://transamericanautoparts.local/category/uncategorized/,Uncategorized,uncategorized,,0,,,1,,,,,,,,,,,,,,,,,,,,,,
+5,http://transamericanautoparts.local/category/suspension/,Suspension,suspension,,0,,,1,,,,,,,,,,,field_60b0b2ab479a7,,,,,,,,,,,
+6,http://transamericanautoparts.local/category/lift-kits/,"Lift Kits",lift-kits,,5,Suspension,suspension,1,,,,,,,,,,,field_60b0b2ab479a7,,,,,,,,,,,

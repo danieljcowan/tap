@@ -1,0 +1,38 @@
+.container {
+
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+
+  @media (max-width: $breakpoint-sm) {
+    padding: 0 15px;
+  }
+  @media (min-width: $breakpoint-sm) {
+    width: 90%;
+  }
+  @media (min-width: $breakpoint-md) {
+    width: 90%
+  }
+  @media (min-width: $breakpoint-lg) {
+    width: 960px;
+  }
+  @media (min-width: $breakpoint-xl) {
+    width: 1140px;
+  }
+  @media (min-width: $breakpoint-xxl) {
+    width: 1440px;
+  }
+
+
+  &.fluid {
+    width: 100%;
+  }
+
+  &.nopadding {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+}

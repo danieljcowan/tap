@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,gBAAiB;EAChB,SAAS,EAAE,2BAA2B;EACtC,aAAa,EAAE,oDAAoD",
+"sources": ["../../sass/06-components/404.scss"],
+"names": [],
+"file": "404.css"
+}

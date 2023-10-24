@@ -1,0 +1,24 @@
+.#{$ns}wheel-finder {
+	padding: 3rem 0 3rem;
+
+	.#{$ns}wheel-finder-form {
+	    max-width: 400px;
+	    margin: 0 auto;
+
+	    select {
+	    	width: 100%;
+		    margin-bottom: .5rem;
+		    font-size: 18px;
+		    padding: .5rem;
+	    }
+
+	    .clear {
+	    	margin-bottom: 1rem;
+	    }
+
+	    .#{$ns}button:hover {
+	    	color: $text-opposite;
+	    	opacity: .9;
+	    }
+	}
+}

@@ -1,0 +1,14 @@
+.#{$ns}homepage-hero {
+	
+	&__slider__slide {
+		background-position: bottom;
+	}
+}
+
+.slick-next, .slick-prev {
+	top: 60% !important;
+
+	&::before {
+		font-size: 40px !important;
+	}
+}

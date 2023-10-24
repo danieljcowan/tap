@@ -1,0 +1,78 @@
+.#{$ns}product-group {
+
+	.#{$ns}single-product-summary__meta-cart__button-container {
+		text-align: center;
+
+		.#{$ns}single-product-summary__meta-cart__button {
+			padding: 1rem 3rem;
+			width: auto;
+		}
+	}
+
+	.skus-that-fit {
+		padding: 3rem 0;
+		border: 3px solid $primary;
+		border-radius: $radius-sm;
+		margin-bottom: 5rem;
+	}
+
+	.skus-that-do-not-fit {
+		.#{$ns}single-product-summary__meta-vehicle-fit__icon {
+			background-color: $dark-gray;
+			border-color: $dark-gray;
+		}
+	}
+
+	.#{$ns}product-row {
+		padding: 1.5rem 0;
+
+		&:not(:last-child) {
+	    	border-bottom: 1px solid $light-gray;
+	    }
+
+    	&__content {
+
+    		h4 {
+    			font-size: 1rem;
+    			font-weight: 600;
+    			padding-bottom: .5rem;
+    			margin-bottom: .5rem;
+    			border-bottom: 1px solid $light-gray;
+    		}
+
+    		.#{$ns}product-row__title {
+	    		font-size: 1.2rem;
+	    		font-weight: 600;
+	    		text-decoration: none;
+	    	}
+
+		    	ul {
+					columns: 1;
+
+				li {
+					line-height: 1.5;
+				}
+			}
+    	}
+
+    	.#{$ns}single-product-summary__meta-cart__price {
+    		text-align: center;
+    	}
+
+    	&__part-number {
+
+    	}
+
+    	.c {
+    		display: flex;
+    		flex-direction: column;
+    		padding: 0 1rem;
+			justify-content: flex-start;
+
+    		&:last-child {
+    			justify-content: center;
+    		}
+    	}
+
+	}	
+}
